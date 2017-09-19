@@ -1,4 +1,2 @@
 # perfectBananaBread
-statistically delicious bah-na-na bread
-
-Stay tuned.
+get ready for some statistically delicious bah-na-na bread
