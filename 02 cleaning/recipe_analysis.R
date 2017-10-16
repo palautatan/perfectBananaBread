@@ -39,6 +39,10 @@ ingredients = strsplit(bbdata$recipe[1], "\', ")[[1]]
 ingredients2 = unlist(lapply(ingredients, function(x) gsub("'","", x)))
 ingredients3 = unlist(lapply(ingredients2, function(x) gsub("\\[|\\]","", x)))
 
+
+
+## FIRST FUNCTION
+# CAN BE VECTORIZED LOL WOOPS
 split_into_ingredients = function(long_ass_string) {
   ingredients = strsplit(long_ass_string, "\', ")[[1]]
   ingredients2 = unlist(lapply(ingredients, function(x) gsub("'","", x)))
@@ -58,6 +62,9 @@ str_extract(ingredients3[10], "[0-9]+ ([0-9]/[0-9])")
 str_extract(ingredients3[2], "[0-9](/[0-9]?)+( [0-9]/[0-9])?")
 str_extract(ingredients3[10], "[0-9](/[0-9]?)?+( [0-9]/[0-9])?")
 
+
+
+## SECOND FUNCTION
 check_recipe_number = function(listed_ingredient) {
   number = str_extract(listed_ingredient, "[0-9](/[0-9]?)?+( [0-9]/[0-9])?")
   return(number)
@@ -66,29 +73,45 @@ check_recipe_number = function(listed_ingredient) {
 numbers = unlist(lapply(ingredients, check_recipe_number))
 numbers
 
-# FUNCTION TO CONVERT FRACTIONS
-fraction_converter = function(num_string) {
-  if (grepl("\\/", num_string)) {
-    if (nchar(num_string)<4) {
-      num_denom = strsplit(num_string,"\\/")[[1]]
-      dec = as.integer(num_denom[1]) / as.integer(num_denom[2])
-    }
-    else {
-      mixed_no = strsplit(num_string, "\\/")[[1]]
-      whole_and_num = strsplit(mixed_no[1], " ")[[1]]
-      whole = as.integer(whole_and_num[1])
-      frac = as.integer(whole_and_num[2]) / as.integer(mixed_no[2])
+
+
+
+## THIRD FUNCTION
+# SMALL FUNCTION THAT TAKES A SINGLE ELEMENT
+# AND OUTPUTS ITS DECIMAL EQUIVALENT
+
+num_to_dec = function(x) 
+{
+  # CHECK IF THERE IS A SLASH
+  if (grepl("\\/", x)) 
+  {
+    if (nchar(x)<5) 
+    {
+      # NON MIXED NUMBERS
+      num_denom = strsplit(x,"\\/")[[1]]
+      dec = as.integer(num_denom[1]) / as.integer(num_denom[2])      
+    } 
+    else 
+    {
+      # MIXED NUMBERS
+      mixed_no = strsplit(fucker, " ")[[1]]
+      whole = as.integer(mixed_no[1])
+      num_denom = strsplit(mixed_no[2],"\\/")[[1]]
+      frac = as.integer(num_denom[1]) / as.integer(num_denom[2]) 
       dec = whole + frac
     }
-  }
-  else {
-    dec = as.integer(num_string)
+  } 
+  else 
+  {
+    # IF NO SLASH, JUST INTEGER
+    dec = as.integer(x)
   }
   dec
 }
 
-converted_numbers = unlist(lapply(numbers, fraction_converter))
 
+
+sample_converts = unlist(lapply(numbers[[1]], num_to_dec))
 
 
 # GET UNIT MEASUREMENTS
@@ -102,23 +125,78 @@ if (grepl("[0-9]+ ([A-z])+", ingredients3[3])) {
   str_extract(ingredients3[3], "[A-z]+")
 }
 
+
+
+## FOURTH FUNCTION
 # CHECK THE MEASUREMENT
 check_measurement = function (v) {
   if (grepl("[0-9]+ ([A-z])+", v)) {
-    if (grepl("cup(s)?|[A-z]+spoon(s)?", v)) {
+    if (grepl("cup(s)?|[A-z]+spoon(s)?|ounce(s)?", v)) {
       str_extract(v, "[A-z]+")
     } else {
-      0
+      NA
     }
   }
 }
 
-unlist(lapply(ingredients3, check_measurement))
 
 
 
 # SPLIT ALL INGREDIENTS
 all_recipes = lapply(bbdata$recipe, split_into_ingredients)
 numbers = lapply(all_recipes, check_recipe_number)
-converted_numbers = lapply(numbers, fraction_converter)
-the_measurements = lapply(all_recipes, check_measurement)
+converts = lapply(numbers, function(x) unlist(lapply(x, num_to_dec)))
+the_measurements = lapply(all_recipes, function(x) unlist(lapply(x,check_measurement)))
+
+# WE HAVE THE MEASUREMENT
+# WE HAVE THE NUMBER
+# MAYBE: WE CAN REMOVE THESE FROM THE STRING
+
+i = 5
+j = 1
+numbers[[i]][j]
+the_measurements[[i]][j]
+all_recipes[[i]][j]
+
+step1 = gsub(paste0(numbers[[i]][j]," "), "", all_recipes[[i]][j])
+step2 = gsub(paste0(the_measurements[[i]][j]," "), "", step1)
+step2
+
+
+## FIFTH FUNCTION
+# GET THE INGREDIENTS
+ingredients_all = list()
+for (i in 1:length(all_recipes)) {
+  ingredients_per_recipe = c()
+  for (j in 1:length(all_recipes[[i]])) {  
+    step1 = gsub(paste0(numbers[[i]][j]," "), "", all_recipes[[i]][j])
+    step2 = gsub(paste0(the_measurements[[i]][j]," "), "", step1)
+    # cat(paste0(step2,"\n"))
+    ingredients_per_recipe = c(ingredients_per_recipe, step2)
+  }
+  ingredients_all[[i]] = ingredients_per_recipe
+}
+
+
+
+
+# WE HAVE EVERYTHING, FRANK
+i = 1
+a = converts[[i]]
+b = the_measurements[[i]]
+c = ingredients_all[[i]]
+first_df = data.frame(cbind(a,b,c))
+write.table(first_df, "sample_df1.csv")
+
+j = 5
+ab = converts[[j]]
+bb = the_measurements[[j]]
+cb = ingredients_all[[j]]
+another_df = data.frame(cbind(ab,bb,cb))
+write.table(another_df, "sample_df2.csv")
+
+
+# UNLIST ALL THE LISTS
+# COMBINE THEM INTO A SINGLE DATAFRAME
+# MAKE SURE THAT WE CAN STILL REFERENCE WHICH DATASET
+# FROM WHENCE THEY CAME
