@@ -94,7 +94,7 @@ num_to_dec = function(x)
     else 
     {
       # MIXED NUMBERS
-      mixed_no = strsplit(fucker, " ")[[1]]
+      mixed_no = strsplit(x, " ")[[1]]
       whole = as.integer(mixed_no[1])
       num_denom = strsplit(mixed_no[2],"\\/")[[1]]
       frac = as.integer(num_denom[1]) / as.integer(num_denom[2]) 
@@ -185,16 +185,23 @@ i = 1
 a = converts[[i]]
 b = the_measurements[[i]]
 c = ingredients_all[[i]]
-first_df = data.frame(cbind(a,b,c))
+first_df = data.frame(cbind(i,a,b,c,longRating[i]))
 write.table(first_df, "sample_df1.csv")
 
-j = 5
-ab = converts[[j]]
-bb = the_measurements[[j]]
-cb = ingredients_all[[j]]
-another_df = data.frame(cbind(ab,bb,cb))
-write.table(another_df, "sample_df2.csv")
 
+# FOR LOOOOPY
+
+all_ingr = c()
+for (i in 1:length(longRating)) {
+  a = converts[[i]]
+  b = the_measurements[[i]]
+  c = ingredients_all[[i]]
+  all_ingr = rbind(all_ingr, (cbind(study_no = i,amount = a, unit = b, ingredient = c, rating = longRating[i])))
+}
+
+
+hm = data.frame(all_ingr)
+write.table(hm, "organized_recipes.csv")
 
 # UNLIST ALL THE LISTS
 # COMBINE THEM INTO A SINGLE DATAFRAME
