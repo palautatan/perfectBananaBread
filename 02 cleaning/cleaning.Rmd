@@ -1,0 +1,136 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Cleaning
+
+Let's read in the banana_bread_df.csv that was generated in Python.
+```{r, include=FALSE}
+# LIBRARIES
+library(stringr)
+
+# LOAD IN DATA
+bbdata = read.csv("/Users/EDIE/Desktop/banana_bread_df.csv", as.is=TRUE)
+attach(bbdata)
+```
+
+## The Dataframe from Python
+```{r}
+head(bbdata, 2)
+```
+
+
+## Split Into Ingredients
+```{r}
+## FIRST FUNCTION
+# CAN BE VECTORIZED LOL WOOPS
+split_into_ingredients = function(py_string) {
+  ingredients = strsplit(py_string, "\', ")[[1]]
+  ingredients2 = unlist(lapply(ingredients, function(x) gsub("'","", x)))
+  ingredients3 = unlist(lapply(ingredients2, function(x) gsub("\\[|\\]","", x)))
+  ingredients3
+}
+```
+
+## Get Number from Ingredient List Item
+```{r}
+## SECOND FUNCTION
+check_recipe_number = function(listed_ingredient) {
+  number = str_extract(listed_ingredient, "[0-9](/[0-9]?)?+( [0-9]/[0-9])?")
+  return(number)
+}
+```
+
+## Convert to Decimal Numbers
+```{r}
+num_to_dec = function(x) {
+  # CHECK IF THERE IS A SLASH
+  if (grepl("\\/", x)) {
+    if (nchar(x)<5) {
+      # NON MIXED NUMBERS
+      num_denom = strsplit(x,"\\/")[[1]]
+      dec = as.integer(num_denom[1]) / as.integer(num_denom[2])      
+    } else {
+      # MIXED NUMBERS
+      mixed_no = strsplit(x, " ")[[1]]
+      whole = as.integer(mixed_no[1])
+      num_denom = strsplit(mixed_no[2],"\\/")[[1]]
+      frac = as.integer(num_denom[1]) / as.integer(num_denom[2]) 
+      dec = whole + frac
+      }
+  } else {
+    # IF NO SLASH, JUST INTEGER
+    dec = as.integer(x)
+    }
+  dec
+}
+```
+
+
+## Get the Units of Measurement
+```{r}
+## FOURTH FUNCTION
+# CHECK THE MEASUREMENT
+check_measurement = function (v) {
+  if (grepl("[0-9]+ ([A-z])+", v)) {
+    if (grepl("cup(s)?|[A-z]+spoon(s)?|ounce(s)?", v)) {
+      str_extract(v, "[A-z]+")
+    } else {
+      NA
+    }
+  }
+}
+```
+
+
+## Apply First Four Functions
+```{r}
+# SPLIT ALL INGREDIENTS
+all_recipes = lapply(bbdata$recipe, split_into_ingredients)
+numbers = lapply(all_recipes, check_recipe_number)
+converts = lapply(numbers, function(x) unlist(lapply(x, num_to_dec)))
+the_measurements = lapply(all_recipes, function(x) unlist(lapply(x,check_measurement)))
+```
+
+
+## Get the Actual Ingredients
+```{r}
+## FIFTH FUNCTION
+# GET THE INGREDIENTS
+ingredients_all = list()
+for (i in 1:length(all_recipes)) {
+  ingredients_per_recipe = c()
+  for (j in 1:length(all_recipes[[i]])) {  
+    step1 = gsub(paste0(numbers[[i]][j]," "), "", all_recipes[[i]][j])
+    step2 = gsub(paste0(the_measurements[[i]][j]," "), "", step1)
+    # cat(paste0(step2,"\n"))
+    ingredients_per_recipe = c(ingredients_per_recipe, step2)
+  }
+  ingredients_all[[i]] = ingredients_per_recipe
+}
+```
+
+
+## Construct Dataframe
+```{r, warning=FALSE}
+all_ingr = c()
+for (i in 1:length(longRating)) {
+  a = converts[[i]]
+  b = the_measurements[[i]]
+  c = ingredients_all[[i]]
+  all_ingr = rbind(all_ingr, (cbind(study_no = i,amount = a, unit = b, ingredient = c, rating = longRating[i])))
+}
+
+
+parsed_recipes = data.frame(all_ingr)
+```
+
+
+## The Dataframe
+```{r}
+head(parsed_recipes, 20)
+```
