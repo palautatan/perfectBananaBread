@@ -1,0 +1,46 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Exploration
+
+## Libraries and Data
+Let's read in the banana_bread_df.csv that was generated in Python.
+```{r}
+# LIBRARIES
+library(stringr)
+
+# LOAD IN DATA
+bbdata = read.csv("/Users/EDIE/Desktop/banana_bread_df.csv", as.is=TRUE)
+attach(bbdata)
+```
+
+## Visuals
+Here are some plots of the data we have in the .csv file.
+
+```{r}
+# RATINGS OVERALL
+hist(longRating, main="Histogram of Ratings")
+
+# CALORIES
+plot(calories,ratingValue, main="Calories v. Rating for Banana Bread Recipes")
+hist(calories, main="Histogram of Banana Bread Recipe Calories")
+
+# BAKERS/REVIEWERS
+plot(made.it, ratingValue, main="Number of Bakers v. Rating for Banana Bread Recipes")
+hist(made.it, main="Histogram of Bakers Baking Recipes")
+
+plot(reviews, ratingValue, main="Number of Reviewers v. Rating for Banana Bread Recipes")
+hist(reviews, main="Histogram of Reviewers Reviewing Recipes")
+
+line = lm(made.it[reviews>250] ~ reviews[reviews>250])
+plot(reviews[reviews>250], made.it[reviews>250], ylim=c(0,1000), xlim=c(0,1000), main="Reviews v. Made It For Recipes with 250+ Reviews")
+abline(line)
+```
+
+## Conclusions
+There are no patterns in particular here that are actually helpful to a model.
