@@ -1,0 +1,144 @@
+"","study_no","amount","unit","ingredient","rating"
+"4",1,2,"cups","mashed ripe banana",4.63492059707642
+"19",2,1,"cup","mashed bananas",4.67164182662964
+"42",4,3,"cup","ripe bananas, mashed",4.69473695755005
+"53",5,1,"cup","mashed bananas",4.6641001701355
+"64",6,6,NA,"bananas, mashed",4.67378330230713
+"84",8,3,NA,"bananas, mashed",4.69541788101196
+"96",9,2,NA,"bananas, mashed",4.51702785491943
+"109",10,3,NA,"bananas, mashed",4.803551197052
+"123",11,2.33333333333333,"cups","mashed overripe bananas",4.57120370864868
+"139",13,6,NA,"very ripe bananas, mashed",4.7706127166748
+"152",14,2,"cups","mashed overripe bananas",4.69037246704102
+"158",15,1,"cup","mashed bananas",4.73420476913452
+"167",16,1.5,"cups","mashed banana",4.55555534362793
+"176",17,3,NA,"bananas, mashed",4.69120121002197
+"177",18,1,"cup","mashed bananas",4.73080253601074
+"190",19,3,NA,"ripe bananas, mashed",4.62224817276001
+"201",20,1,"cup","banana, mashed",4.41342735290527
+"207",21,6,NA,"very ripe bananas, mashed",4.7973461151123
+"225",23,3,NA,"ripe bananas, mashed",4.5810809135437
+"233",24,1,"cup","mashed bananas",4.6054630279541
+"240",25,3,NA,"very ripe bananas, mashed",4.28030300140381
+"249",26,3,NA,"ripe bananas, mashed",4.75308656692505
+"262",27,3,"cup","ripe bananas, mashed",4.69473695755005
+"272",28,1,"cup","mashed bananas",4.67264556884766
+"278",29,3,NA,"ripe bananas, mashed",4.77272748947144
+"289",30,4,NA,"very ripe bananas, mashed",4.56310701370239
+"294",31,2,NA,"ripe bananas, mashed",4.33740854263306
+"318",33,1.5,"cups","mashed bananas",4.60732984542847
+"333",34,2,"cups","mashed very ripe banana",4.70976257324219
+"340",35,3,NA,"bananas, mashed",4.69541788101196
+"351",36,2,NA,"bananas, mashed",4.14246559143066
+"357",37,2,NA,"very ripe bananas, mashed",4.5747127532959
+"376",38,1,"cup","mashed bananas",4.39285707473755
+"387",39,1.5,"cups","mashed bananas",4.66467046737671
+"397",41,3,NA,"bananas, mashed",4.70336389541626
+"412",42,2,NA,"bananas, mashed",4.51702785491943
+"424",43,1,"cup","mashed bananas",4.61589384078979
+"436",44,1,"cup","mashed bananas",4.65410947799683
+"451",45,0.666666666666667,"cup","mashed bananas",4.35862064361572
+"460",46,1,"cup","mashed banana",4.44982719421387
+"465",47,2,"cups","mashed bananas",4.77431917190552
+"489",49,1,"cup","mashed bananas",4.41201734542847
+"505",50,1,"cup","mashed bananas",4.62173891067505
+"512",51,1.5,"cups","mashed bananas",4.56632661819458
+"525",52,2,NA,"ripe bananas, mashed",4.72727251052856
+"530",53,3,NA,"ripe bananas, mashed",4.66265058517456
+"543",54,4,NA,"ripe bananas, mashed",4.1503267288208
+"556",55,1.33333333333333,"cups","mashed ripe banana",4.70198678970337
+"559",56,1.5,"cups","mashed bananas",4.60402679443359
+"579",58,5,NA,"ripe bananas, mashed",4.4153847694397
+"589",59,2,"cups","mashed ripe banana",4.63492059707642
+"603",60,6,NA,"ripe bananas, mashed",4.15833330154419
+"608",61,3,NA,"large very ripe bananas, mashed",4.5
+"619",62,3,NA,"mashed bananas",4.40000009536743
+"644",64,1,"cup","mashed bananas",3.25961542129517
+"662",66,6,NA,"very ripe bananas, mashed",4.69306945800781
+"672",67,3,NA,"bananas, mashed",4.56435632705688
+"689",68,2.33333333333333,"cups","mashed overripe bananas",4.41836738586426
+"698",69,6,NA,"very ripe bananas, mashed",4.72631597518921
+"705",70,0.75,"cup","mashed bananas",4.02105283737183
+"707",71,4,NA,"ripe bananas, mashed",3.96629214286804
+"719",72,2,"cup","ripe bananas, mashed",4.7380952835083
+"729",73,4,NA,"bananas, mashed",4.28915643692017
+"743",74,3,NA,"small ripe bananas, mashed",4.23076915740967
+"771",76,3,NA,"ripe bananas, mashed",4.0151515007019
+"782",77,1,"cup","mashed overripe bananas",4.125
+"801",78,2,NA,"ripe bananas, mashed",4.60317468643188
+"843",82,2,NA,"ripe bananas, mashed",4
+"853",83,3,NA,"ripe bananas, mashed",3.91803288459778
+"868",85,2,"cups","mashed banana",3.74576282501221
+"879",86,3,NA,"bananas, mashed",4.15789461135864
+"883",87,1,"cup","mashed bananas",4.54385948181152
+"908",88,3,NA,"large very ripe bananas, mashed",4.37735843658447
+"927",89,3,NA,"ripe bananas, mashed",4.40000009536743
+"930",90,6,NA,"very ripe bananas, mashed",4.53488349914551
+"948",91,2,NA,"bananas, mashed",4.04651165008545
+"965",92,3,NA,"ripe bananas, mashed",4.64285707473755
+"981",94,2,NA,"ripe bananas, mashed",4.77500009536743
+"986",95,2,NA,"over-ripe bananas, mashed",4.57499980926514
+"1007",96,1,NA,"banana, peeled and mashed",4.23684215545654
+"1037",99,3,NA,"bananas, mashed",3.36363625526428
+"1056",101,1,"cup","mashed ripe banana",4.67741918563843
+"1066",102,1.25,"cups","mashed ripe bananas",4.48387098312378
+"1083",103,1,"cup","mashed ripe bananas",4.64516115188599
+"1087",104,1,NA,"very ripe banana, mashed",4.53333330154419
+"1119",106,3,NA,"ripe bananas, mashed",4.43333339691162
+"1128",107,1,NA,"10 bananas, mashed",4.44827604293823
+"1137",108,1,"cup","mashed banana",3.27586197853088
+"1155",109,1,NA,"banana, mashed",4.72413778305054
+"1158",110,3,NA,"ripe bananas, mashed",3.96296286582947
+"1174",111,1.5,"cups","very ripe, mashed bananas",4.80000019073486
+"1194",113,1.5,"cups","mashed bananas",4.66666650772095
+"1207",114,3,"cup","ripe bananas, mashed",4.45833349227905
+"1220",115,6,NA,"very ripe bananas, mashed",4.1304349899292
+"1234",116,3,NA,"ripe bananas, mashed",4.13636350631714
+"1245",117,1,"cup","mashed very ripe banana",4.40909099578857
+"1257",118,0.75,"cup","mashed bananas",4.13636350631714
+"1282",120,1,NA,"very ripe banana, mashed",3.71428561210632
+"1307",122,2.33333333333333,"cups","mashed overripe bananas",4.73684215545654
+"1312",123,0.75,"cup","mashed bananas",3.38888883590698
+"1324",124,1,"cup","mashed ripe bananas",4.44444465637207
+"1336",125,6,NA,"very ripe bananas, mashed",4.5
+"1348",126,5,"cups","mashed bananas",4.23529434204102
+"1358",127,1,NA,"ripe banana, mashed",3.47058820724487
+"1370",128,1.33333333333333,"cups","mashed ripe bananas",4.25
+"1390",129,1,"cup","mashed banana",4.5
+"1397",130,4,NA,"medium ripe bananas, mashed",3.53333330154419
+"1403",131,0.75,"cup","mashed banana",3.28571438789368
+"1422",132,1.5,"cups","mashed ripe bananas",4.07692289352417
+"1444",134,1,"cup","mashed banana",4.09999990463257
+"1448",135,2,NA,"very ripe bananas, mashed",4.90000009536743
+"1459",136,3,NA,"bananas, mashed",3.70000004768372
+"1469",137,1.5,"cups","mashed overripe bananas, or more to taste",4.77777767181396
+"1501",140,5,NA,"very ripe bananas, mashed",4.5
+"1532",142,1,"cup","mashed ripe banana",4.375
+"1554",144,2,NA,"bananas, slightly mashed",3.28571438789368
+"1563",145,1,"cup","mashed bananas",2.71428561210632
+"1577",146,1,"cup","mashed ripe bananas",4.16666650772095
+"1590",147,1,"cup","mashed fully ripe bananas",4.33333349227905
+"1610",149,2,NA,"large bananas, mashed",4
+"1619",150,3,NA,"ripe bananas, mashed",3
+"1637",151,1.33333333333333,"cups","mashed bananas",4.59999990463257
+"1679",153,3,NA,"medium bananas, mashed",4.25
+"1684",154,2,"cups","mashed bananas",4.5
+"1695",155,1,"cup","mashed banana",5
+"1720",156,6,NA,"very ripe bananas, mashed",4.66666650772095
+"1738",157,1,"cup","mashed ripe bananas",3
+"1746",159,6,NA,"large over-ripe bananas, mashed",5
+"1763",160,2,NA,"large bananas, mashed",4.33333349227905
+"1779",161,3,NA,"bananas, mashed",3
+"1816",164,1.75,"cups","mashed bananas",4
+"1826",165,3,NA,"ripe bananas, mashed",4.5
+"1835",166,1,"cup","mashed ripe bananas",5
+"1853",167,1,NA,"large banana, mashed",4
+"1865",168,6,NA,"ripe bananas, mashed",4
+"1875",169,1,"cup","mashed bananas",5
+"1884",170,3,NA,"over-ripe bananas, mashed",5
+"1899",171,6,NA,"very ripe bananas, mashed",0
+"1921",172,5,NA,"large ripe bananas, coarsely mashed, or more to taste",0
+"1925",173,1,"cup","banana, mashed",0
+"1947",175,2.5,"cups","mashed ripe bananas",0
+"1963",176,2,NA,"large overripe bananas, mashed",0
+"1975",177,1,"cup","ripe banana, mashed",0
