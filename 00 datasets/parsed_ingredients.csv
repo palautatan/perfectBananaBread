@@ -1,0 +1,2000 @@
+,study_no,amount,unit,ingredient,rating
+1,1,0.5,cup,buttermilk,4.654761791
+2,1,2,0,eggs,4.654761791
+3,1,0.5,cup,vegetable oil,4.654761791
+4,1,1,cup,white sugar,4.654761791
+5,1,2,0,"small very ripe bananas, sliced",4.654761791
+6,1,1,teaspoon,vanilla extract,4.654761791
+7,1,2,cups,all-purpose flour,4.654761791
+8,1,1,teaspoon,ground cinnamon,4.654761791
+9,1,1,teaspoon,baking powder,4.654761791
+10,1,1,teaspoon,baking soda,4.654761791
+11,1,0.125,teaspoon,salt,4.654761791
+12,1,0.5,cup,chopped walnuts,4.654761791
+13,2,2,cups,all-purpose flour,4.671627998
+14,2,0.5,teaspoon,baking soda,4.671627998
+15,2,1,cup,white sugar,4.671627998
+16,2,1,0,egg,4.671627998
+17,2,5,tablespoons,milk,4.671627998
+18,2,1,teaspoon,baking powder,4.671627998
+19,2,0.5,teaspoon,salt,4.671627998
+20,2,0.5,cup,margarine,4.671627998
+21,2,1,cup,mashed bananas,4.671627998
+22,2,0.5,cup,chopped walnuts (optional),4.671627998
+23,3,NA,0,cooking spray,4.176470757
+24,3,2,cups,all-purpose flour,4.176470757
+25,3,1,teaspoon,baking soda,4.176470757
+26,3,1,teaspoon,baking powder,4.176470757
+27,3,0.5,teaspoon,ground cinnamon,4.176470757
+28,3,0.125,teaspoon,salt,4.176470757
+29,3,2,0,large very ripe bananas,4.176470757
+30,3,0.5,cup,caramel macchiato flavored liquid coffee creamer (such as International Delightå¨),4.176470757
+31,3,0.5,cup,vegetable oil,4.176470757
+32,3,2,0,eggs,4.176470757
+33,3,0.666666667,cup,white sugar,4.176470757
+34,3,2,tablespoons,instant coffee granules,4.176470757
+35,3,6,tablespoons,unsalted butter,4.176470757
+36,3,6,tablespoons,packed brown sugar,4.176470757
+37,3,1,teaspoon,vanilla extract,4.176470757
+38,4,NA,0,cooking spray,4.697286129
+39,4,2,cups,all-purpose flour,4.697286129
+40,4,1,teaspoon,salt,4.697286129
+41,4,1,teaspoon,baking powder,4.697286129
+42,4,1,teaspoon,baking soda,4.697286129
+43,4,0.5,cup,"butter, softened",4.697286129
+44,4,3,0,"ripe bananas, mashed",4.697286129
+45,4,1,cup,white sugar,4.697286129
+46,4,2,0,large eggs,4.697286129
+47,4,0.25,teaspoon,vanilla extract,4.697286129
+48,4,1,tablespoon,milk,4.697286129
+49,4,1,cup,chopped walnuts,4.697286129
+50,4,0.333333333,cup,semisweet chocolate chips,4.697286129
+51,5,0.5,cup,"margarine, softened",4.660919666
+52,5,1,ounce,"(8 ounce) package cream cheese, softened",4.660919666
+53,5,1.25,cups,white sugar,4.660919666
+54,5,2,0,eggs,4.660919666
+55,5,1,cup,mashed bananas,4.660919666
+56,5,1,teaspoon,vanilla extract,4.660919666
+57,5,2.25,cups,all-purpose flour,4.660919666
+58,5,1.5,teaspoons,baking powder,4.660919666
+59,5,0.5,teaspoon,baking soda,4.660919666
+60,5,0.75,cup,chopped pecans,4.660919666
+61,5,2,tablespoons,brown sugar,4.660919666
+62,5,2,teaspoons,ground cinnamon,4.660919666
+63,6,1,cup,"margarine, softened",4.674616814
+64,6,2,cups,white sugar,4.674616814
+65,6,4,0,eggs,4.674616814
+66,6,6,0,"bananas, mashed",4.674616814
+67,6,2,teaspoons,vanilla extract,4.674616814
+68,6,3,cups,all-purpose flour,4.674616814
+69,6,2,teaspoons,baking soda,4.674616814
+70,6,0.25,cup,unsweetened cocoa powder,4.674616814
+71,6,1,cup,lite sour cream,4.674616814
+72,6,1,cup,semisweet chocolate chips,4.674616814
+73,7,0.75,cup,"frozen unsweetened raspberries, thawed",4.682926655
+74,7,1,0,ripe banana,4.682926655
+75,7,1.5,cups,all-purpose flour,4.682926655
+76,7,0.75,teaspoon,ground cinnamon,4.682926655
+77,7,0.5,teaspoon,baking soda,4.682926655
+78,7,0.25,teaspoon,salt,4.682926655
+79,7,0.125,teaspoon,ground nutmeg,4.682926655
+80,7,1,cup,white sugar,4.682926655
+81,7,2,0,eggs,4.682926655
+82,7,0.5,cup,vegetable oil,4.682926655
+83,7,0.5,teaspoon,lemon extract,4.682926655
+84,8,1.5,cups,white sugar,4.69623661
+85,8,0.5,cup,"butter, softened",4.69623661
+86,8,3,0,"bananas, mashed",4.69623661
+87,8,2,0,eggs,4.69623661
+88,8,2,cups,all-purpose flour,4.69623661
+89,8,0.5,teaspoon,baking soda,4.69623661
+90,8,0.333333333,cup,sour milk,4.69623661
+91,8,0.25,teaspoon,salt,4.69623661
+92,8,1,teaspoon,vanilla extract,4.69623661
+93,9,3,0,eggs,4.517027855
+94,9,0.75,cup,vegetable oil,4.517027855
+95,9,0.666666667,cup,packed brown sugar,4.517027855
+96,9,1,cup,white sugar,4.517027855
+97,9,1,cup,grated zucchini,4.517027855
+98,9,2,0,"bananas, mashed",4.517027855
+99,9,2,teaspoons,vanilla extract,4.517027855
+100,9,3.5,cups,all-purpose flour,4.517027855
+101,9,1,tablespoon,ground cinnamon,4.517027855
+102,9,1.5,teaspoons,baking powder,4.517027855
+103,9,1,teaspoon,baking soda,4.517027855
+104,9,1,teaspoon,salt,4.517027855
+105,9,0.5,cup,dried cranberries,4.517027855
+106,9,0.5,cup,chopped walnuts,4.517027855
+107,10,1.5,cups,all-purpose flour,4.803298473
+108,10,1,teaspoon,baking soda,4.803298473
+109,10,1,teaspoon,baking powder,4.803298473
+110,10,0.5,teaspoon,salt,4.803298473
+111,10,3,0,"bananas, mashed",4.803298473
+112,10,0.75,cup,white sugar,4.803298473
+113,10,1,0,"egg, lightly beaten",4.803298473
+114,10,0.333333333,cup,"butter, melted",4.803298473
+115,10,0.333333333,cup,packed brown sugar,4.803298473
+116,10,2,tablespoons,all-purpose flour,4.803298473
+117,10,0.125,teaspoon,ground cinnamon,4.803298473
+118,10,1,tablespoon,butter,4.803298473
+119,11,2,cups,all-purpose flour,4.569930553
+120,11,1,teaspoon,baking soda,4.569930553
+121,11,0.25,teaspoon,salt,4.569930553
+122,11,0.5,cup,butter,4.569930553
+123,11,0.75,cup,brown sugar,4.569930553
+124,11,2,0,"eggs, beaten",4.569930553
+125,11,2.333333333,cups,mashed overripe bananas,4.569930553
+126,12,0.5,cup,"butter, melted",4.815733433
+127,12,1,cup,white sugar,4.815733433
+128,12,2,0,eggs,4.815733433
+129,12,1,teaspoon,vanilla extract,4.815733433
+130,12,1.5,cups,all-purpose flour,4.815733433
+131,12,1,teaspoon,baking soda,4.815733433
+132,12,0.5,teaspoon,salt,4.815733433
+133,12,0.5,cup,sour cream,4.815733433
+134,12,0.5,cup,chopped walnuts,4.815733433
+135,12,2,0,"medium bananas, sliced",4.815733433
+136,13,0.25,cup,white sugar,4.771261692
+137,13,1,teaspoon,ground cinnamon,4.771261692
+138,13,0.75,cup,butter,4.771261692
+139,13,3,cups,white sugar,4.771261692
+140,13,3,0,eggs,4.771261692
+141,13,6,0,"very ripe bananas, mashed",4.771261692
+142,13,1,ounce,(16 ounce) container sour cream,4.771261692
+143,13,2,teaspoons,vanilla extract,4.771261692
+144,13,2,teaspoons,ground cinnamon,4.771261692
+145,13,0.5,teaspoon,salt,4.771261692
+146,13,3,teaspoons,baking soda,4.771261692
+147,13,4.5,cups,all-purpose flour,4.771261692
+148,13,1,cup,chopped walnuts (optional),4.771261692
+149,14,2,cups,all-purpose flour,4.686868668
+150,14,1,teaspoon,salt,4.686868668
+151,14,2,teaspoons,baking soda,4.686868668
+152,14,1,cup,butter or margarine,4.686868668
+153,14,2,cups,white sugar,4.686868668
+154,14,2,cups,mashed overripe bananas,4.686868668
+155,14,4,0,"eggs, beaten",4.686868668
+156,14,1,cup,chopped walnuts,4.686868668
+157,15,2,0,"eggs, beaten",4.732899189
+158,15,0.333333333,cup,buttermilk,4.732899189
+159,15,0.5,cup,vegetable oil,4.732899189
+160,15,1,cup,mashed bananas,4.732899189
+161,15,1.5,cups,white sugar,4.732899189
+162,15,1.75,cups,all-purpose flour,4.732899189
+163,15,1,teaspoon,baking soda,4.732899189
+164,15,0.5,teaspoon,salt,4.732899189
+165,15,0.5,cup,chopped pecans (optional),4.732899189
+166,16,0.5,cup,"margarine, softened",4.554172993
+167,16,1,cup,white sugar,4.554172993
+168,16,2,0,eggs,4.554172993
+169,16,1.5,cups,mashed banana,4.554172993
+170,16,2,cups,all-purpose flour,4.554172993
+171,16,1,teaspoon,baking soda,4.554172993
+172,17,1.5,cups,all-purpose flour,4.694929123
+173,17,1,teaspoon,baking soda,4.694929123
+174,17,0.5,teaspoon,salt,4.694929123
+175,17,1,cup,white sugar,4.694929123
+176,17,2,0,"eggs, beaten",4.694929123
+177,17,0.25,cup,"butter, melted",4.694929123
+178,17,3,0,"bananas, mashed",4.694929123
+179,18,1,cup,mashed bananas,4.731497288
+180,18,1,cup,sour cream,4.731497288
+181,18,0.25,cup,margarine,4.731497288
+182,18,1.333333333,cups,white sugar,4.731497288
+183,18,2,0,eggs,4.731497288
+184,18,1,teaspoon,vanilla extract,4.731497288
+185,18,2,cups,all-purpose flour,4.731497288
+186,18,1,teaspoon,baking soda,4.731497288
+187,18,1,teaspoon,baking powder,4.731497288
+188,18,0.25,teaspoon,salt,4.731497288
+189,19,1,cup,white sugar,4.622119904
+190,19,0.5,cup,vegetable oil,4.622119904
+191,19,1,0,egg,4.622119904
+192,19,3,0,"ripe bananas, mashed",4.622119904
+193,19,0.25,cup,chopped walnuts,4.622119904
+194,19,2,cups,all-purpose flour,4.622119904
+195,19,1,teaspoon,baking soda,4.622119904
+196,19,0.5,teaspoon,salt,4.622119904
+197,20,1.5,cups,all-purpose flour,4.413630962
+198,20,0.75,cup,white sugar,4.413630962
+199,20,1.25,teaspoons,baking powder,4.413630962
+200,20,0.5,teaspoon,baking soda,4.413630962
+201,20,0.5,teaspoon,ground cinnamon,4.413630962
+202,20,2,0,egg whites,4.413630962
+203,20,1,cup,"banana, mashed",4.413630962
+204,20,0.25,cup,applesauce,4.413630962
+205,21,1,cup,shortening,4.796407223
+206,21,2,cups,white sugar,4.796407223
+207,21,2,0,eggs,4.796407223
+208,21,2,tablespoons,mayonnaise,4.796407223
+209,21,6,0,"very ripe bananas, mashed",4.796407223
+210,21,3,cups,all-purpose flour,4.796407223
+211,21,0.5,teaspoon,salt,4.796407223
+212,21,1,teaspoon,baking powder,4.796407223
+213,21,2,teaspoons,baking soda,4.796407223
+214,21,1,cup,semi-sweet chocolate chips,4.796407223
+215,21,0.5,cup,chopped walnuts,4.796407223
+216,22,5,0,very ripe bananas,4.715555668
+217,22,4,0,eggs,4.715555668
+218,22,1,cup,shortening,4.715555668
+219,22,2.5,cups,white sugar,4.715555668
+220,22,1,tablespoon,vanilla extract,4.715555668
+221,22,3.5,cups,all-purpose flour,4.715555668
+222,22,2,teaspoons,baking soda,4.715555668
+223,22,1,teaspoon,salt,4.715555668
+224,23,0.25,cup,"butter, softened",4.581708908
+225,23,1,cup,white sugar,4.581708908
+226,23,1,0,egg,4.581708908
+227,23,3,0,"ripe bananas, mashed",4.581708908
+228,23,2,cups,all-purpose flour,4.581708908
+229,23,1,teaspoon,baking soda,4.581708908
+230,23,0.5,teaspoon,salt,4.581708908
+231,24,0.333333333,cup,vegetable oil,4.605463028
+232,24,0.5,cup,honey,4.605463028
+233,24,1,teaspoon,vanilla extract,4.605463028
+234,24,2,0,eggs,4.605463028
+235,24,1,cup,mashed bananas,4.605463028
+236,24,1.75,cups,whole wheat flour,4.605463028
+237,24,0.5,teaspoon,salt,4.605463028
+238,24,1,teaspoon,baking soda,4.605463028
+239,24,0.25,cup,hot water,4.605463028
+240,24,0.5,cup,chopped walnuts,4.605463028
+241,25,2,0,"eggs, beaten",4.283019066
+242,25,3,0,"very ripe bananas, mashed",4.283019066
+243,25,2,cups,all-purpose flour,4.283019066
+244,25,1,teaspoon,salt,4.283019066
+245,25,0.75,cup,white sugar,4.283019066
+246,25,1,teaspoon,baking soda,4.283019066
+247,26,2,cups,all-purpose flour,4.748503208
+248,26,1,teaspoon,baking powder,4.748503208
+249,26,1,teaspoon,baking soda,4.748503208
+250,26,1,teaspoon,salt,4.748503208
+251,26,3,0,"ripe bananas, mashed",4.748503208
+252,26,1,tablespoon,milk,4.748503208
+253,26,1,teaspoon,"ground cinnamon, or to taste",4.748503208
+254,26,0.5,cup,"butter, softened",4.748503208
+255,26,1,cup,white sugar,4.748503208
+256,26,2,0,eggs,4.748503208
+257,26,1,cup,semisweet chocolate chips,4.748503208
+258,27,NA,0,cooking spray,4.697286129
+259,27,2,cups,all-purpose flour,4.697286129
+260,27,1,teaspoon,salt,4.697286129
+261,27,1,teaspoon,baking powder,4.697286129
+262,27,1,teaspoon,baking soda,4.697286129
+263,27,0.5,cup,"butter, softened",4.697286129
+264,27,3,0,"ripe bananas, mashed",4.697286129
+265,27,1,cup,white sugar,4.697286129
+266,27,2,0,large eggs,4.697286129
+267,27,0.25,teaspoon,vanilla extract,4.697286129
+268,27,1,tablespoon,milk,4.697286129
+269,27,1,cup,chopped walnuts,4.697286129
+270,27,0.333333333,cup,semisweet chocolate chips,4.697286129
+271,28,0.666666667,cup,white sugar,4.672645569
+272,28,0.25,cup,"margarine, softened",4.672645569
+273,28,2,0,eggs,4.672645569
+274,28,1,cup,mashed bananas,4.672645569
+275,28,0.25,cup,water,4.672645569
+276,28,1.666666667,cups,all-purpose flour,4.672645569
+277,28,1,teaspoon,baking soda,4.672645569
+278,28,0.5,teaspoon,salt,4.672645569
+279,28,0.25,teaspoon,baking powder,4.672645569
+280,29,3,0,"ripe bananas, mashed",4.767816067
+281,29,1,cup,white sugar,4.767816067
+282,29,1,0,egg,4.767816067
+283,29,0.25,cup,melted butter,4.767816067
+284,29,1.5,cups,all-purpose flour,4.767816067
+285,29,1,teaspoon,baking soda,4.767816067
+286,29,1,teaspoon,salt,4.767816067
+287,30,2,0,"ripe bananas, mashed",4.338061333
+288,30,2,0,eggs,4.338061333
+289,30,0.333333333,cup,vegetable oil,4.338061333
+290,30,1.333333333,cups,canned pumpkin puree,4.338061333
+291,30,0.5,cup,honey,4.338061333
+292,30,0.5,cup,white sugar,4.338061333
+293,30,2.5,cups,all-purpose flour,4.338061333
+294,30,1,teaspoon,baking powder,4.338061333
+295,30,1,teaspoon,baking soda,4.338061333
+296,30,0.5,teaspoon,salt,4.338061333
+297,30,2,teaspoons,pumpkin pie spice,4.338061333
+298,30,1,teaspoon,ground cinnamon,4.338061333
+299,30,0.75,cup,raisins (optional),4.338061333
+300,30,0.5,cup,walnut pieces (optional),4.338061333
+301,31,0.5,cup,"butter, softened",4.564164639
+302,31,1,cup,brown sugar,4.564164639
+303,31,2,0,eggs,4.564164639
+304,31,1,tablespoon,vanilla extract,4.564164639
+305,31,4,0,"very ripe bananas, mashed",4.564164639
+306,31,2,cups,all-purpose flour,4.564164639
+307,31,3,teaspoons,baking powder,4.564164639
+308,31,0.5,teaspoon,salt,4.564164639
+309,31,0.5,cup,chopped walnuts,4.564164639
+310,32,2,cups,all-purpose flour,4.088311672
+311,32,1,teaspoon,baking powder,4.088311672
+312,32,0.5,teaspoon,baking soda,4.088311672
+313,32,0.75,cup,white sugar,4.088311672
+314,32,3,tablespoons,vegetable oil,4.088311672
+315,32,2,0,eggs,4.088311672
+316,32,2,0,"bananas, peeled and halved lengthwise",4.088311672
+317,33,2.5,cups,white sugar,4.608355045
+318,33,1,cup,shortening,4.608355045
+319,33,3,0,eggs,4.608355045
+320,33,1.5,cups,mashed bananas,4.608355045
+321,33,3,cups,all-purpose flour,4.608355045
+322,33,1.25,cups,buttermilk,4.608355045
+323,33,1.5,teaspoons,baking soda,4.608355045
+324,33,1.5,teaspoons,baking powder,4.608355045
+325,33,1,teaspoon,vanilla extract,4.608355045
+326,33,0.5,cup,chopped walnuts,4.608355045
+327,34,3,cups,all-purpose flour,4.706036568
+328,34,0.75,teaspoon,salt,4.706036568
+329,34,1,teaspoon,baking soda,4.706036568
+330,34,2,cups,white sugar,4.706036568
+331,34,1,teaspoon,ground cinnamon,4.706036568
+332,34,1,cup,chopped walnuts,4.706036568
+333,34,3,0,"eggs, beaten",4.706036568
+334,34,1,cup,vegetable oil,4.706036568
+335,34,2,cups,mashed very ripe banana,4.706036568
+336,34,1,ounce,"(8 ounce) can crushed pineapple, drained",4.706036568
+337,34,2,teaspoons,vanilla extract,4.706036568
+338,34,1,cup,flaked coconut,4.706036568
+339,34,1,cup,"maraschino cherries, diced",4.706036568
+340,35,1.5,cups,white sugar,4.69623661
+341,35,0.5,cup,"butter, softened",4.69623661
+342,35,3,0,"bananas, mashed",4.69623661
+343,35,2,0,eggs,4.69623661
+344,35,2,cups,all-purpose flour,4.69623661
+345,35,0.5,teaspoon,baking soda,4.69623661
+346,35,0.333333333,cup,sour milk,4.69623661
+347,35,0.25,teaspoon,salt,4.69623661
+348,35,1,teaspoon,vanilla extract,4.69623661
+349,36,0.5,cup,"butter, softened",4.144808769
+350,36,1,cup,white sugar,4.144808769
+351,36,2,0,eggs,4.144808769
+352,36,0.5,cup,peanut butter,4.144808769
+353,36,2,0,"bananas, mashed",4.144808769
+354,36,2,cups,all-purpose flour,4.144808769
+355,36,1,teaspoon,baking soda,4.144808769
+356,36,0.5,cup,chopped walnuts,4.144808769
+357,37,2,0,eggs,4.574712753
+358,37,0.666666667,cup,white sugar,4.574712753
+359,37,2,0,"very ripe bananas, mashed",4.574712753
+360,37,0.25,cup,applesauce,4.574712753
+361,37,0.333333333,cup,nonfat milk,4.574712753
+362,37,1,tablespoon,vegetable oil,4.574712753
+363,37,1,tablespoon,vanilla extract,4.574712753
+364,37,1.75,cups,all-purpose flour,4.574712753
+365,37,2,teaspoons,baking powder,4.574712753
+366,37,0.5,teaspoon,baking soda,4.574712753
+367,37,0.5,teaspoon,salt,4.574712753
+368,37,0.333333333,cup,chopped walnuts,4.574712753
+369,38,0.5,cup,fresh blueberries,4.394658566
+370,38,1.625,cups,all-purpose flour,4.394658566
+371,38,0.5,cup,quick cooking oats,4.394658566
+372,38,0.5,cup,chopped pecans,4.394658566
+373,38,1,teaspoon,baking soda,4.394658566
+374,38,0.25,teaspoon,salt,4.394658566
+375,38,0.5,cup,shortening,4.394658566
+376,38,1,cup,white sugar,4.394658566
+377,38,2,0,eggs,4.394658566
+378,38,1,cup,mashed bananas,4.394658566
+379,39,0.5,cup,shortening,4.666666508
+380,39,1,cup,white sugar,4.666666508
+381,39,2,0,"eggs, beaten",4.666666508
+382,39,0.5,teaspoon,vanilla extract,4.666666508
+383,39,1,cup,all-purpose flour,4.666666508
+384,39,1,cup,quick cooking oats,4.666666508
+385,39,1,teaspoon,baking soda,4.666666508
+386,39,0.5,teaspoon,salt,4.666666508
+387,39,0.25,cup,milk,4.666666508
+388,39,0.5,teaspoon,ground cinnamon,4.666666508
+389,39,1.5,cups,mashed bananas,4.666666508
+390,39,0.5,cup,chopped raisins (optional),4.666666508
+391,40,0.5,cup,shortening,4.617469788
+392,40,1,cup,white sugar,4.617469788
+393,40,1.5,cups,all-purpose flour,4.617469788
+394,40,1,teaspoon,baking soda,4.617469788
+395,40,1,teaspoon,salt,4.617469788
+396,40,3,0,ripe bananas,4.617469788
+397,41,0.5,cup,"butter, softened",4.703363895
+398,41,0.5,cup,brown sugar,4.703363895
+399,41,3,0,"bananas, mashed",4.703363895
+400,41,0.25,cup,milk,4.703363895
+401,41,1,teaspoon,vanilla extract,4.703363895
+402,41,2,0,eggs,4.703363895
+403,41,1.5,cups,all-purpose flour,4.703363895
+404,41,0.5,cup,wheat bran,4.703363895
+405,41,1,teaspoon,baking powder,4.703363895
+406,41,1,teaspoon,baking soda,4.703363895
+407,41,0.25,teaspoon,salt,4.703363895
+408,41,0.5,cup,chopped walnuts,4.703363895
+409,42,3,0,eggs,4.517027855
+410,42,0.75,cup,vegetable oil,4.517027855
+411,42,0.666666667,cup,packed brown sugar,4.517027855
+412,42,1,cup,white sugar,4.517027855
+413,42,1,cup,grated zucchini,4.517027855
+414,42,2,0,"bananas, mashed",4.517027855
+415,42,2,teaspoons,vanilla extract,4.517027855
+416,42,3.5,cups,all-purpose flour,4.517027855
+417,42,1,tablespoon,ground cinnamon,4.517027855
+418,42,1.5,teaspoons,baking powder,4.517027855
+419,42,1,teaspoon,baking soda,4.517027855
+420,42,1,teaspoon,salt,4.517027855
+421,42,0.5,cup,dried cranberries,4.517027855
+422,42,0.5,cup,chopped walnuts,4.517027855
+423,43,2,0,eggs,4.615893841
+424,43,1,cup,white sugar,4.615893841
+425,43,0.5,cup,"butter, melted",4.615893841
+426,43,1,cup,mashed bananas,4.615893841
+427,43,0.5,teaspoon,almond extract,4.615893841
+428,43,1.5,cups,all-purpose flour,4.615893841
+429,43,0.5,cup,flaked coconut,4.615893841
+430,43,1.5,teaspoons,baking powder,4.615893841
+431,43,0.5,teaspoon,baking soda,4.615893841
+432,43,0.5,teaspoon,salt,4.615893841
+433,43,0.5,cup,chopped walnuts,4.615893841
+434,43,0.5,cup,"maraschino cherries, chopped",4.615893841
+435,44,0.5,cup,shortening,4.654109478
+436,44,0.75,cup,white sugar,4.654109478
+437,44,2,0,eggs,4.654109478
+438,44,1,cup,mashed bananas,4.654109478
+439,44,1,teaspoon,vanilla extract,4.654109478
+440,44,1.5,cups,all-purpose flour,4.654109478
+441,44,0.5,teaspoon,baking soda,4.654109478
+442,44,0.5,teaspoon,salt,4.654109478
+443,44,0.5,cup,quick cooking oats,4.654109478
+444,44,0.5,cup,chopped walnuts,4.654109478
+445,45,0.5,cup,"margarine, softened",4.360824585
+446,45,0.666666667,cup,milk,4.360824585
+447,45,2,0,eggs,4.360824585
+448,45,2.5,cups,all-purpose flour,4.360824585
+449,45,1,cup,white sugar,4.360824585
+450,45,2.5,teaspoons,baking powder,4.360824585
+451,45,0.5,teaspoon,baking soda,4.360824585
+452,45,1,teaspoon,salt,4.360824585
+453,45,0.666666667,cup,mashed bananas,4.360824585
+454,45,0.5,cup,chopped walnuts,4.360824585
+455,46,1.75,cups,all-purpose flour,4.449827194
+456,46,2,teaspoons,baking powder,4.449827194
+457,46,0.25,teaspoon,baking soda,4.449827194
+458,46,0.5,teaspoon,salt,4.449827194
+459,46,0.666666667,cup,white sugar,4.449827194
+460,46,0.333333333,cup,"butter, softened",4.449827194
+461,46,2,0,eggs,4.449827194
+462,46,1,cup,mashed banana,4.449827194
+463,46,0.5,cup,chopped walnuts,4.449827194
+464,47,0.666666667,cup,shortening,4.775193691
+465,47,2.666666667,cups,white sugar,4.775193691
+466,47,4,0,eggs,4.775193691
+467,47,2,cups,mashed bananas,4.775193691
+468,47,0.666666667,cup,water,4.775193691
+469,47,3.333333333,cups,all-purpose flour,4.775193691
+470,47,0.5,teaspoon,baking powder,4.775193691
+471,47,2,teaspoons,baking soda,4.775193691
+472,47,1.5,teaspoons,salt,4.775193691
+473,47,1,teaspoon,ground cinnamon,4.775193691
+474,47,1,teaspoon,ground cloves,4.775193691
+475,47,0.666666667,cup,chopped pecans,4.775193691
+476,48,0.5,cup,buttermilk,4.654761791
+477,48,2,0,eggs,4.654761791
+478,48,0.5,cup,vegetable oil,4.654761791
+479,48,1,cup,white sugar,4.654761791
+480,48,2,0,"small very ripe bananas, sliced",4.654761791
+481,48,1,teaspoon,vanilla extract,4.654761791
+482,48,2,cups,all-purpose flour,4.654761791
+483,48,1,teaspoon,ground cinnamon,4.654761791
+484,48,1,teaspoon,baking powder,4.654761791
+485,48,1,teaspoon,baking soda,4.654761791
+486,48,0.125,teaspoon,salt,4.654761791
+487,48,0.5,cup,chopped walnuts,4.654761791
+488,49,4,0,"eggs, lightly beaten",4.4145298
+489,49,2,cups,white sugar,4.4145298
+490,49,1.5,cups,"strawberries, mashed",4.4145298
+491,49,1,cup,mashed bananas,4.4145298
+492,49,1,tablespoon,orange zest,4.4145298
+493,49,1,cup,vegetable oil,4.4145298
+494,49,3,cups,all-purpose flour,4.4145298
+495,49,1,teaspoon,baking soda,4.4145298
+496,49,1.5,teaspoons,ground cinnamon,4.4145298
+497,49,0.5,teaspoon,salt,4.4145298
+498,49,0.25,teaspoon,ground nutmeg,4.4145298
+499,49,1,cup,chopped walnuts,4.4145298
+500,50,1.75,cups,all-purpose flour,4.621738911
+501,50,2,teaspoons,baking powder,4.621738911
+502,50,0.25,teaspoon,baking soda,4.621738911
+503,50,0.5,teaspoon,salt,4.621738911
+504,50,1,cup,white sugar,4.621738911
+505,50,0.5,cup,chopped pecans,4.621738911
+506,50,2,0,eggs,4.621738911
+507,50,1,cup,mashed bananas,4.621738911
+508,50,0.5,cup,vegetable oil,4.621738911
+509,50,1,teaspoon,vanilla extract,4.621738911
+510,51,2,cups,whole wheat flour,4.566326618
+511,51,0.25,cup,wheat germ,4.566326618
+512,51,1,teaspoon,salt,4.566326618
+513,51,1,teaspoon,baking soda,4.566326618
+514,51,1.5,cups,mashed bananas,4.566326618
+515,51,0.25,cup,vegetable oil,4.566326618
+516,51,0.5,cup,honey,4.566326618
+517,51,2,0,eggs,4.566326618
+518,51,1,teaspoon,vanilla extract,4.566326618
+519,51,0.5,cup,chopped pecans,4.566326618
+520,52,2,cups,all-purpose flour,4.729166508
+521,52,1,teaspoon,baking soda,4.729166508
+522,52,0.5,teaspoon,salt,4.729166508
+523,52,0.5,cup,"butter, softened",4.729166508
+524,52,1,cup,white sugar,4.729166508
+525,52,2,0,eggs,4.729166508
+526,52,2,teaspoons,vanilla extract,4.729166508
+527,52,2,0,"ripe bananas, mashed",4.729166508
+528,52,1,cup,fresh blueberries,4.729166508
+529,53,0.5,cup,butter,4.664670467
+530,53,1,cup,white sugar,4.664670467
+531,53,2,0,eggs,4.664670467
+532,53,3,0,"ripe bananas, mashed",4.664670467
+533,53,2,cups,all-purpose flour,4.664670467
+534,53,1,teaspoon,baking soda,4.664670467
+535,53,1,teaspoon,baking powder,4.664670467
+536,53,0.5,teaspoon,salt,4.664670467
+537,53,0.5,cup,chopped walnuts,4.664670467
+538,54,1.75,cups,all-purpose flour,4.703947544
+539,54,1.25,teaspoons,baking powder,4.703947544
+540,54,0.5,teaspoon,baking soda,4.703947544
+541,54,0.75,teaspoon,salt,4.703947544
+542,54,1,ounce,(3 ounce) package non-instant vanilla pudding mix,4.703947544
+543,54,0.666666667,cup,white sugar,4.703947544
+544,54,0.5,cup,shortening,4.703947544
+545,54,2,0,eggs,4.703947544
+546,54,2,tablespoons,milk,4.703947544
+547,54,1.333333333,cups,mashed ripe banana,4.703947544
+548,54,0.333333333,cup,chopped walnuts,4.703947544
+549,55,2.25,cups,all-purpose flour,4.150326729
+550,55,1,teaspoon,baking soda,4.150326729
+551,55,0.5,teaspoon,ground cinnamon,4.150326729
+552,55,0.5,teaspoon,ground nutmeg,4.150326729
+553,55,1,cup,white sugar,4.150326729
+554,55,2,0,eggs,4.150326729
+555,55,0.333333333,cup,unsweetened applesauce,4.150326729
+556,55,4,0,"ripe bananas, mashed",4.150326729
+557,55,1,tablespoon,vanilla extract,4.150326729
+558,55,1,cup,raisins (optional),4.150326729
+559,55,1,cup,chopped walnuts (optional),4.150326729
+560,56,0.333333333,cup,vegetable oil,4.604026794
+561,56,1.5,cups,mashed bananas,4.604026794
+562,56,0.5,teaspoon,vanilla extract,4.604026794
+563,56,3,0,eggs,4.604026794
+564,56,2.333333333,cups,baking mix,4.604026794
+565,56,1,cup,white sugar,4.604026794
+566,56,0.5,cup,chopped walnuts,4.604026794
+567,57,2,cups,flour,4.652777672
+568,57,1.5,teaspoons,baking powder,4.652777672
+569,57,1,teaspoon,baking soda,4.652777672
+570,57,4,0,very ripe bananas,4.652777672
+571,57,2,0,eggs,4.652777672
+572,57,1,cup,sugar,4.652777672
+573,57,1,teaspoon,cinnamon,4.652777672
+574,57,0.5,teaspoon,salt,4.652777672
+575,57,0.5,teaspoon,nutmeg,4.652777672
+576,57,0.25,teaspoon,ground cloves,4.652777672
+577,57,0.5,cup,melted butter,4.652777672
+578,57,1,teaspoon,vanilla extract,4.652777672
+579,58,0.75,cup,SPLENDAå¨ Sugar Blend,4.412213802
+580,58,0.75,cup,flax seed meal,4.412213802
+581,58,5,0,"ripe bananas, mashed",4.412213802
+582,58,0.25,cup,skim milk,4.412213802
+583,58,0.25,cup,low-fat sour cream,4.412213802
+584,58,2,teaspoons,egg whites,4.412213802
+585,58,2,cups,whole wheat flour,4.412213802
+586,58,1,teaspoon,baking soda,4.412213802
+587,58,0.5,teaspoon,salt,4.412213802
+588,59,3,cups,white sugar,4.6328125
+589,59,0.75,cup,"butter, softened",4.6328125
+590,59,3,0,eggs,4.6328125
+591,59,2,cups,mashed ripe banana,4.6328125
+592,59,0.5,cup,sour cream,4.6328125
+593,59,3.5,cups,all-purpose flour,4.6328125
+594,59,1,teaspoon,baking soda,4.6328125
+595,59,0.5,teaspoon,baking powder,4.6328125
+596,59,0.5,teaspoon,ground cinnamon,4.6328125
+597,59,1.5,cups,chopped pecans,4.6328125
+598,60,2,cups,gluten-free all purpose baking flour,4.165289402
+599,60,1,teaspoon,baking powder,4.165289402
+600,60,0.5,teaspoon,salt,4.165289402
+601,60,0.5,cup,butter,4.165289402
+602,60,0.5,cup,turbinado sugar,4.165289402
+603,60,2,0,"eggs, lightly beaten",4.165289402
+604,60,3,tablespoons,maple syrup,4.165289402
+605,60,6,0,"ripe bananas, mashed",4.165289402
+606,61,0.5,cup,"butter, softened",4.5
+607,61,1.5,cups,white sugar,4.5
+608,61,2,0,eggs,4.5
+609,61,1,tablespoon,vanilla extract,4.5
+610,61,3,0,"large very ripe bananas, mashed",4.5
+611,61,0.333333333,cup,sour cream,4.5
+612,61,0.333333333,cup,buttermilk,4.5
+613,61,2.5,cups,unsifted cake flour,4.5
+614,61,1,teaspoon,salt,4.5
+615,61,0.5,teaspoon,baking soda,4.5
+616,61,0.25,teaspoon,baking powder,4.5
+617,61,1.5,cups,semi-sweet chocolate chips,4.5
+618,62,2.5,cups,white sugar,4.400000095
+619,62,1,cup,shortening,4.400000095
+620,62,3,0,eggs,4.400000095
+621,62,3,0,mashed bananas,4.400000095
+622,62,1,cup,cranberry sauce,4.400000095
+623,62,0.5,cup,milk,4.400000095
+624,62,1,teaspoon,vanilla extract,4.400000095
+625,62,4,cups,all-purpose flour,4.400000095
+626,62,1.5,teaspoons,baking soda,4.400000095
+627,62,1.5,teaspoons,baking powder,4.400000095
+628,62,1,teaspoon,ground cinnamon,4.400000095
+629,62,0.5,teaspoon,ground nutmeg,4.400000095
+630,62,0.5,cup,chopped walnuts,4.400000095
+631,63,0.5,cup,"butter, melted",4.115044117
+632,63,0.5,cup,maple syrup,4.115044117
+633,63,1,0,egg,4.115044117
+634,63,2,0,ripe bananas,4.115044117
+635,63,0.5,teaspoon,maple extract,4.115044117
+636,63,3,tablespoons,milk,4.115044117
+637,63,2,cups,all-purpose flour,4.115044117
+638,63,1,teaspoon,baking soda,4.115044117
+639,63,0.5,teaspoon,baking powder,4.115044117
+640,63,0.25,cup,chopped walnuts,4.115044117
+641,63,3,tablespoons,white sugar,4.115044117
+642,64,2,cups,all-purpose flour,3.259615421
+643,64,0.333333333,cup,white sugar,3.259615421
+644,64,2,tablespoons,Dutch process cocoa powder,3.259615421
+645,64,1,tablespoon,baking powder,3.259615421
+646,64,1,cup,mashed bananas,3.259615421
+647,64,0.666666667,cup,canola oil,3.259615421
+648,64,1,0,"egg, beaten",3.259615421
+649,64,1,cup,semi-sweet chocolate chips,3.259615421
+650,65,4,0,"very ripe bananas, divided",4.572815418
+651,65,1,cup,white sugar,4.572815418
+652,65,0.75,cup,"butter, melted and cooled",4.572815418
+653,65,2,0,large eggs,4.572815418
+654,65,0.333333333,cup,sour cream,4.572815418
+655,65,1,teaspoon,vanilla extract,4.572815418
+656,65,2,cups,all-purpose flour,4.572815418
+657,65,1.5,teaspoons,baking powder,4.572815418
+658,65,0.5,teaspoon,salt,4.572815418
+659,65,0.5,cup,chopped walnuts (optional),4.572815418
+660,65,2,teaspoons,white sugar,4.572815418
+661,65,0.5,teaspoon,ground cinnamon,4.572815418
+662,66,1,cup,shortening,4.693069458
+663,66,2,cups,white sugar,4.693069458
+664,66,6,0,"very ripe bananas, mashed",4.693069458
+665,66,4,0,eggs,4.693069458
+666,66,2.25,cups,all-purpose flour,4.693069458
+667,66,1,teaspoon,salt,4.693069458
+668,66,2,teaspoons,baking soda,4.693069458
+669,66,2,teaspoons,ground cinnamon,4.693069458
+670,66,1,teaspoon,ground cloves,4.693069458
+671,66,1,teaspoon,freshly grated nutmeg,4.693069458
+672,66,1,cup,chopped walnuts,4.693069458
+673,67,0.5,cup,flax seed,4.564356327
+674,67,3,0,"bananas, mashed",4.564356327
+675,67,0.25,cup,vegetable oil,4.564356327
+676,67,0.5,cup,white sugar,4.564356327
+677,67,2,0,eggs,4.564356327
+678,67,1.5,cups,all-purpose flour,4.564356327
+679,67,0.5,teaspoon,baking powder,4.564356327
+680,67,0.5,teaspoon,baking soda,4.564356327
+681,67,0.5,teaspoon,salt,4.564356327
+682,67,0.25,cup,flax seed,4.564356327
+683,67,0.5,cup,chopped pitted dates,4.564356327
+684,68,2,cups,all-purpose flour,4.418367386
+685,68,1,teaspoon,baking soda,4.418367386
+686,68,0.25,teaspoon,salt,4.418367386
+687,68,0.25,cup,butter,4.418367386
+688,68,0.125,cup,nonfat plain yogurt,4.418367386
+689,68,0.75,cup,brown sugar,4.418367386
+690,68,2,0,"eggs, beaten",4.418367386
+691,68,2.333333333,cups,mashed overripe bananas,4.418367386
+692,69,3,cups,sugar,4.726315975
+693,69,1,cup,"margarine, softened",4.726315975
+694,69,1,teaspoon,vanilla extract,4.726315975
+695,69,4,0,eggs,4.726315975
+696,69,3.5,cups,all-purpose flour,4.726315975
+697,69,2,teaspoons,baking soda,4.726315975
+698,69,0.25,teaspoon,salt,4.726315975
+699,69,1,cup,buttermilk,4.726315975
+700,69,6,0,"very ripe bananas, mashed",4.726315975
+701,70,1.75,cups,all-purpose flour,4.021052837
+702,70,1,tablespoon,baking powder,4.021052837
+703,70,0.5,teaspoon,salt,4.021052837
+704,70,0.75,cup,white sugar,4.021052837
+705,70,0.5,cup,lowfat cream cheese,4.021052837
+706,70,2,0,eggs,4.021052837
+707,70,0.75,cup,mashed bananas,4.021052837
+708,70,0.25,cup,brewed chai tea,4.021052837
+709,71,4,0,"ripe bananas, mashed",3.966292143
+710,71,0.666666667,cup,white sugar,3.966292143
+711,71,2,0,eggs,3.966292143
+712,71,2,cups,all-purpose flour,3.966292143
+713,71,1,teaspoon,baking powder,3.966292143
+714,71,0.5,teaspoon,salt,3.966292143
+715,71,0.5,cup,chopped walnuts,3.966292143
+716,72,NA,0,cooking spray,4.729411602
+717,72,1,cup,whole wheat flour,4.729411602
+718,72,1,teaspoon,baking powder,4.729411602
+719,72,0.5,teaspoon,baking soda,4.729411602
+720,72,0.25,teaspoon,salt,4.729411602
+721,72,2,0,"ripe bananas, mashed",4.729411602
+722,72,0.333333333,cup,unsweetened crunchy peanut butter,4.729411602
+723,72,0.75,cup,brown sugar,4.729411602
+724,72,0.25,cup,plain fat-free yogurt,4.729411602
+725,72,1,0,large egg,4.729411602
+726,72,1,tablespoon,canola oil,4.729411602
+727,72,0.75,cup,semisweet chocolate chips,4.729411602
+728,73,1,ounce,(18.25 ounce) package yellow cake mix,4.289156437
+729,73,3,0,eggs,4.289156437
+730,73,1.333333333,cups,vegetable oil,4.289156437
+731,73,4,0,"bananas, mashed",4.289156437
+732,74,0.75,cup,whole wheat pastry flour,4.230769157
+733,74,0.5,cup,whole wheat flour,4.230769157
+734,74,1,cup,oat bran,4.230769157
+735,74,0.25,cup,sugar,4.230769157
+736,74,1,tablespoon,baking powder,4.230769157
+737,74,0.5,teaspoon,salt,4.230769157
+738,74,0.75,cup,raisins,4.230769157
+739,74,0.5,cup,nonfat plain yogurt,4.230769157
+740,74,0.25,cup,low fat sour cream,4.230769157
+741,74,0.25,cup,unsweetened applesauce,4.230769157
+742,74,0.25,cup,maple syrup,4.230769157
+743,74,2,teaspoons,egg whites,4.230769157
+744,74,1,teaspoon,vanilla extract,4.230769157
+745,74,3,0,"small ripe bananas, mashed",4.230769157
+746,74,0.25,cup,chopped pecans,4.230769157
+747,75,NA,0,cooking spray,4.176470757
+748,75,2,cups,all-purpose flour,4.176470757
+749,75,1,teaspoon,baking soda,4.176470757
+750,75,1,teaspoon,baking powder,4.176470757
+751,75,0.5,teaspoon,ground cinnamon,4.176470757
+752,75,0.125,teaspoon,salt,4.176470757
+753,75,2,0,large very ripe bananas,4.176470757
+754,75,0.5,cup,caramel macchiato flavored liquid coffee creamer (such as International Delightå¨),4.176470757
+755,75,0.5,cup,vegetable oil,4.176470757
+756,75,2,0,eggs,4.176470757
+757,75,0.666666667,cup,white sugar,4.176470757
+758,75,2,tablespoons,instant coffee granules,4.176470757
+759,75,6,tablespoons,unsalted butter,4.176470757
+760,75,6,tablespoons,packed brown sugar,4.176470757
+761,75,1,teaspoon,vanilla extract,4.176470757
+762,76,0.333333333,cup,skim milk,4.015151501
+763,76,1,teaspoon,lemon juice,4.015151501
+764,76,1.75,cups,whole wheat flour,4.015151501
+765,76,0.5,cup,unsweetened cocoa powder,4.015151501
+766,76,2,teaspoons,baking powder,4.015151501
+767,76,0.5,teaspoon,baking soda,4.015151501
+768,76,1,teaspoon,ground cinnamon,4.015151501
+769,76,1,teaspoon,ground nutmeg,4.015151501
+770,76,0.5,teaspoon,salt,4.015151501
+771,76,2,0,large eggs,4.015151501
+772,76,0.75,cup,white sugar,4.015151501
+773,76,3,0,"ripe bananas, mashed",4.015151501
+774,76,1,tablespoon,canola oil,4.015151501
+775,76,1,teaspoon,vanilla extract,4.015151501
+776,77,4,0,"ripe bananas, cut into chunks",4.46875
+777,77,1.25,cups,light brown sugar,4.46875
+778,77,0.5,cup,"butter, softened",4.46875
+779,77,1,0,egg,4.46875
+780,77,1,teaspoon,cinnamon,4.46875
+781,77,1,teaspoon,vanilla extract,4.46875
+782,77,0.25,cup,whole milk,4.46875
+783,77,2,cups,all-purpose flour,4.46875
+784,77,0.5,teaspoon,baking soda,4.46875
+785,77,1,teaspoon,baking powder,4.46875
+786,77,0.5,teaspoon,kosher salt,4.46875
+787,78,2,tablespoons,"unsalted butter, softened",4.125
+788,78,2,tablespoons,cream cheese,4.125
+789,78,1,cup,white sugar,4.125
+790,78,1,0,egg,4.125
+791,78,2,cups,all-purpose flour,4.125
+792,78,2,teaspoons,baking powder,4.125
+793,78,0.5,teaspoon,baking soda,4.125
+794,78,0.125,teaspoon,salt,4.125
+795,78,1,cup,mashed overripe bananas,4.125
+796,78,0.5,cup,milk,4.125
+797,78,2,tablespoons,"dark rum, or rum flavoring",4.125
+798,78,0.5,teaspoon,lime zest,4.125
+799,78,2,teaspoons,lime juice,4.125
+800,78,1,teaspoon,vanilla extract,4.125
+801,78,0.25,cup,chopped toasted pecans,4.125
+802,78,0.25,cup,flaked coconut,4.125
+803,78,NA,0,Topping,4.125
+804,78,0.25,cup,brown sugar,4.125
+805,78,2,teaspoons,unsalted butter,4.125
+806,78,2,teaspoons,lime juice,4.125
+807,78,2,teaspoons,"dark rum, or rum flavoring",4.125
+808,78,2,tablespoons,chopped toasted pecans,4.125
+809,78,2,tablespoons,flaked coconut,4.125
+810,79,1,ounce,"(8 ounce) package cream cheese, softened",4.609375
+811,79,1,cup,white sugar,4.609375
+812,79,0.5,cup,butter,4.609375
+813,79,2,0,"eggs, well-beaten",4.609375
+814,79,2,0,"ripe bananas, mashed",4.609375
+815,79,2.25,cups,all-purpose flour,4.609375
+816,79,1.5,teaspoons,baking powder,4.609375
+817,79,0.5,teaspoon,baking soda,4.609375
+818,79,1,cup,chopped walnuts,4.609375
+819,80,0.5,cup,butter,4.296875
+820,80,3,0,very ripe bananas,4.296875
+821,80,0.25,cup,brown sugar,4.296875
+822,80,0.25,cup,white sugar,4.296875
+823,80,1,0,egg,4.296875
+824,80,1,tablespoon,vanilla extract,4.296875
+825,80,1.5,cups,all-purpose flour,4.296875
+826,80,1.5,teaspoons,baking soda,4.296875
+827,80,1,teaspoon,ground cinnamon (optional),4.296875
+828,80,0.5,teaspoon,ground nutmeg (optional),4.296875
+829,81,0.5,cup,white sugar,4.746031761
+830,81,1,tablespoon,ground cinnamon,4.746031761
+831,81,2,ounce,"(7.5 ounce) packages buttermilk biscuit dough, cut into quarters",4.746031761
+832,81,2,0,"ripe bananas, coarsely chopped",4.746031761
+833,81,0.25,cup,chopped pecans,4.746031761
+834,81,0.5,cup,butter,4.746031761
+835,81,0.5,cup,packed light brown sugar,4.746031761
+836,81,1,teaspoon,vanilla,4.746031761
+837,82,1,0,serving cooking spray,4
+838,82,2,cups,almond flour,4
+839,82,1,tablespoon,ground cinnamon,4
+840,82,1,teaspoon,baking soda,4
+841,82,2,0,eggs,4
+842,82,0.5,cup,water,4
+843,82,1,teaspoon,almond extract,4
+844,82,0.25,cup,agave syrup,4
+845,82,2,0,"ripe bananas, mashed",4
+846,82,0.5,teaspoon,vanilla bean paste (optional),4
+847,83,1,cup,unsalted butter,3.918032885
+848,83,1,cup,dark brown sugar,3.918032885
+849,83,6,0,eggs,3.918032885
+850,83,2,cups,all-purpose flour,3.918032885
+851,83,2,teaspoons,baking powder,3.918032885
+852,83,0.25,teaspoon,ground nutmeg,3.918032885
+853,83,1,0,pinch ground allspice,3.918032885
+854,83,1,0,pinch salt,3.918032885
+855,83,3,0,"ripe bananas, mashed",3.918032885
+856,83,1,teaspoon,vanilla extract,3.918032885
+857,84,0.5,cup,"butter, softened",3.766666651
+858,84,1,0,egg,3.766666651
+859,84,1,cup,molasses,3.766666651
+860,84,2,cups,mashed banana,3.766666651
+861,84,1,cup,whole wheat flour,3.766666651
+862,84,0.75,cup,all-purpose flour,3.766666651
+863,84,0.5,teaspoon,baking soda,3.766666651
+864,84,0.5,teaspoon,salt,3.766666651
+865,84,0.5,teaspoon,ground nutmeg,3.766666651
+866,85,0.5,cup,"butter, at room temperature",4.566666603
+867,85,0.5,cup,white sugar,4.566666603
+868,85,2,0,"eggs, at room temperature",4.566666603
+869,85,2.5,cups,pureed ripe bananas,4.566666603
+870,85,1.25,teaspoons,baking soda,4.566666603
+871,85,0.5,teaspoon,baking powder,4.566666603
+872,85,0.25,teaspoon,kosher salt,4.566666603
+873,85,0.5,teaspoon,vanilla extract,4.566666603
+874,85,2,cups,all-purpose flour,4.566666603
+875,85,0.5,cup,coarsely chopped macadamia nuts,4.566666603
+876,86,2,cups,whole wheat flour,4.157894611
+877,86,1,teaspoon,baking soda,4.157894611
+878,86,2,0,eggs,4.157894611
+879,86,0.625,cup,"vegetable oil, divided",4.157894611
+880,86,1.5,cups,white sugar,4.157894611
+881,86,3,0,"bananas, mashed",4.157894611
+882,86,1,cup,chopped strawberries,4.157894611
+883,86,1,0,pinch ground cinnamon,4.157894611
+884,87,2,cups,packed brown sugar,4.543859482
+885,87,1,cup,mashed bananas,4.543859482
+886,87,2,0,eggs,4.543859482
+887,87,1,teaspoon,vanilla extract,4.543859482
+888,87,2,tablespoons,vegetable oil (optional),4.543859482
+889,87,3,cups,all-purpose flour,4.543859482
+890,87,2,teaspoons,baking soda,4.543859482
+891,87,1,teaspoon,salt,4.543859482
+892,87,1.5,teaspoons,ground cinnamon,4.543859482
+893,87,0.5,teaspoon,ground allspice,4.543859482
+894,87,1,tablespoon,ground cardamom,4.543859482
+895,87,0.5,teaspoon,ground cloves,4.543859482
+896,87,2,cups,dark beer,4.543859482
+897,87,1.5,cups,chopped walnuts,4.543859482
+898,87,2,tablespoons,all-purpose flour,4.543859482
+899,87,2,cups,"dates, pitted and chopped",4.543859482
+900,87,2,tablespoons,minced fresh ginger root,4.543859482
+901,88,2.75,cups,all-purpose flour,4.388888836
+902,88,2,teaspoons,ground cinnamon,4.388888836
+903,88,1,teaspoon,baking soda,4.388888836
+904,88,0.5,teaspoon,salt,4.388888836
+905,88,1,cup,"butter, melted",4.388888836
+906,88,2,cups,white sugar,4.388888836
+907,88,4,0,eggs,4.388888836
+908,88,1,cup,plain Greek yogurt,4.388888836
+909,88,1.5,teaspoons,vanilla extract,4.388888836
+910,88,3,0,"large very ripe bananas, mashed",4.388888836
+911,88,2,0,"apples, cubed",4.388888836
+912,88,0.75,cup,chopped walnuts (optional),4.388888836
+913,88,0.5,cup,packed brown sugar,4.388888836
+914,88,0.5,cup,white sugar,4.388888836
+915,88,1,tablespoon,ground cinnamon,4.388888836
+916,88,0.25,cup,all-purpose flour,4.388888836
+917,88,3,tablespoons,"butter, softened",4.388888836
+918,88,NA,0,banana slices for garnish,4.388888836
+919,88,NA,0,apple slices for garnish,4.388888836
+920,89,2,cups,all-purpose flour,4.400000095
+921,89,1,teaspoon,baking powder,4.400000095
+922,89,0.5,teaspoon,baking soda,4.400000095
+923,89,0.5,teaspoon,salt,4.400000095
+924,89,0.75,teaspoon,ground cinnamon,4.400000095
+925,89,0.5,teaspoon,ground nutmeg,4.400000095
+926,89,0.5,cup,butter,4.400000095
+927,89,0.75,cup,white sugar,4.400000095
+928,89,1,0,large egg,4.400000095
+929,89,3,0,"ripe bananas, mashed",4.400000095
+930,89,0.75,cup,butterscotch chips,4.400000095
+931,89,0.5,cup,chopped walnuts (optional),4.400000095
+932,90,6,0,"very ripe bananas, mashed",4.534883499
+933,90,0.5,cup,brown sugar,4.534883499
+934,90,0.25,cup,honey,4.534883499
+935,90,0.25,cup,spiced rum,4.534883499
+936,90,0.25,cup,cognac,4.534883499
+937,90,3,cups,all-purpose flour,4.534883499
+938,90,1,teaspoon,baking soda,4.534883499
+939,90,2,teaspoons,baking powder,4.534883499
+940,90,1,teaspoon,salt,4.534883499
+941,90,1.5,cups,white sugar,4.534883499
+942,90,0.666666667,cup,brown sugar,4.534883499
+943,90,2,0,"eggs, lightly beaten",4.534883499
+944,90,1,tablespoons,"10 unsalted butter, melted",4.534883499
+945,90,3,tablespoons,butter,4.534883499
+946,90,1,cup,brown sugar,4.534883499
+947,90,3,tablespoons,all-purpose flour,4.534883499
+948,90,2,teaspoons,ground cinnamon,4.534883499
+949,91,2,tablespoons,honey,4.04651165
+950,91,2,0,"bananas, mashed",4.04651165
+951,91,0.25,cup,vegetable oil,4.04651165
+952,91,0.5,cup,milk,4.04651165
+953,91,2,teaspoons,vanilla extract,4.04651165
+954,91,1,cup,cornmeal,4.04651165
+955,91,1,cup,whole wheat pastry flour,4.04651165
+956,91,1,tablespoon,baking powder,4.04651165
+957,91,1,teaspoon,baking soda,4.04651165
+958,91,0.5,teaspoon,ground cinnamon,4.04651165
+959,91,1.5,cups,chopped walnuts,4.04651165
+960,91,1,0,"banana, sliced",4.04651165
+961,92,1.5,cups,all-purpose flour,4.642857075
+962,92,1,cup,white sugar,4.642857075
+963,92,1,teaspoon,baking soda,4.642857075
+964,92,1,teaspoon,salt,4.642857075
+965,92,1,0,egg,4.642857075
+966,92,0.5,cup,light mayonnaise,4.642857075
+967,92,3,0,"ripe bananas, mashed",4.642857075
+968,92,1,teaspoon,vanilla extract,4.642857075
+969,93,1,0,serving cooking spray,4.785714149
+970,93,1,ounce,(18.25 ounce) package yellow cake mix,4.785714149
+971,93,1,cup,chopped pecans,4.785714149
+972,93,2,0,"ripe bananas, mashed",4.785714149
+973,93,0.5,cup,water,4.785714149
+974,93,0.5,cup,vegetable oil,4.785714149
+975,93,1,ounce,(3.5 ounce) package instant vanilla pudding mix,4.785714149
+976,93,4,0,eggs,4.785714149
+977,94,0.75,cup,"frozen unsweetened raspberries, thawed",4.682926655
+978,94,1,0,ripe banana,4.682926655
+979,94,1.5,cups,all-purpose flour,4.682926655
+980,94,0.75,teaspoon,ground cinnamon,4.682926655
+981,94,0.5,teaspoon,baking soda,4.682926655
+982,94,0.25,teaspoon,salt,4.682926655
+983,94,0.125,teaspoon,ground nutmeg,4.682926655
+984,94,1,cup,white sugar,4.682926655
+985,94,2,0,eggs,4.682926655
+986,94,0.5,cup,vegetable oil,4.682926655
+987,94,0.5,teaspoon,lemon extract,4.682926655
+988,95,2,0,"over-ripe bananas, mashed",4.574999809
+989,95,1.5,cups,white sugar,4.574999809
+990,95,1,cup,shredded zucchini,4.574999809
+991,95,1,cup,applesauce,4.574999809
+992,95,3,0,eggs,4.574999809
+993,95,0.5,cup,packed brown sugar,4.574999809
+994,95,1,teaspoon,vanilla extract,4.574999809
+995,95,2,cups,all-purpose flour,4.574999809
+996,95,1,cup,whole wheat flour,4.574999809
+997,95,1,tablespoon,ground cinnamon,4.574999809
+998,95,1,teaspoon,salt,4.574999809
+999,95,1,teaspoon,baking soda,4.574999809
+1000,95,0.5,teaspoon,baking powder,4.574999809
+1001,95,0.5,cup,oats,4.574999809
+1002,96,2.5,cups,self-rising flour,4.236842155
+1003,96,1,cup,white sugar,4.236842155
+1004,96,2,tablespoons,vegetable oil,4.236842155
+1005,96,0.75,cup,milk,4.236842155
+1006,96,2,0,"eggs, beaten",4.236842155
+1007,96,1,cup,chopped cranberries,4.236842155
+1008,96,1,0,"apple - peeled, cored, and chopped",4.236842155
+1009,96,1,0,"banana, peeled and mashed",4.236842155
+1010,97,0.5,cup,shortening,4.777777672
+1011,97,4,0,large ripe bananas,4.777777672
+1012,97,2,cups,Amish Friendship Bread Starter (see footnote for recipe link),4.777777672
+1013,97,3,0,eggs,4.777777672
+1014,97,0.5,cup,milk,4.777777672
+1015,97,1,cup,white sugar,4.777777672
+1016,97,1,cup,chopped walnuts,4.777777672
+1017,97,1.5,teaspoons,baking powder,4.777777672
+1018,97,0.5,teaspoon,baking soda,4.777777672
+1019,97,0.5,teaspoon,salt,4.777777672
+1020,97,2,cups,all-purpose flour,4.777777672
+1021,98,3.5,cups,all-purpose flour,4.771428585
+1022,98,2,teaspoons,baking soda,4.771428585
+1023,98,1,teaspoon,salt,4.771428585
+1024,98,0.5,cup,butter at room temperature,4.771428585
+1025,98,0.5,cup,vegetable shortening,4.771428585
+1026,98,2,cups,white sugar,4.771428585
+1027,98,0.5,cup,brown sugar,4.771428585
+1028,98,4,0,ripe bananas,4.771428585
+1029,98,4,0,eggs,4.771428585
+1030,98,1,cup,buttermilk,4.771428585
+1031,98,0.5,cup,sour cream,4.771428585
+1032,98,2.5,teaspoons,vanilla extract,4.771428585
+1033,99,2,cups,whole wheat flour,3.363636255
+1034,99,0.25,teaspoon,salt,3.363636255
+1035,99,0.5,cup,vegetable oil,3.363636255
+1036,99,0.5,cup,pure maple syrup,3.363636255
+1037,99,4,0,"eggs, separated",3.363636255
+1038,99,2,tablespoons,milk,3.363636255
+1039,99,3,0,"bananas, mashed",3.363636255
+1040,99,0.5,cup,chopped walnuts,3.363636255
+1041,100,0.5,cup,milk,3.606060505
+1042,100,2,tablespoons,"butter, softened",3.606060505
+1043,100,2,0,eggs,3.606060505
+1044,100,0.25,cup,white sugar,3.606060505
+1045,100,0.25,cup,brown sugar,3.606060505
+1046,100,1.5,cups,all-purpose flour,3.606060505
+1047,100,1,teaspoon,salt,3.606060505
+1048,100,1,teaspoon,baking soda,3.606060505
+1049,100,1,ounce,(.25 ounce) package active dry yeast,3.606060505
+1050,100,2,0,"small ripe bananas, sliced",3.606060505
+1051,100,0.5,cup,chopped walnuts,3.606060505
+1052,101,2,cups,raisin nut bran cereal,4.677419186
+1053,101,0.5,cup,milk,4.677419186
+1054,101,1.5,cups,all-purpose flour,4.677419186
+1055,101,3.5,teaspoons,baking powder,4.677419186
+1056,101,1,teaspoon,baking soda,4.677419186
+1057,101,0.25,teaspoon,salt,4.677419186
+1058,101,1,cup,mashed ripe banana,4.677419186
+1059,101,0.5,cup,white sugar,4.677419186
+1060,101,0.25,cup,brown sugar,4.677419186
+1061,101,0.25,cup,vegetable oil,4.677419186
+1062,101,1,0,egg,4.677419186
+1063,102,1.25,cups,all-purpose flour,4.483870983
+1064,102,1,cup,quick cooking oats,4.483870983
+1065,102,1,tablespoon,baking powder,4.483870983
+1066,102,0.5,teaspoon,salt,4.483870983
+1067,102,2,0,large eggs,4.483870983
+1068,102,1.25,cups,mashed ripe bananas,4.483870983
+1069,102,2,tablespoons,sour cream,4.483870983
+1070,102,0.333333333,cup,melted butter,4.483870983
+1071,102,0.5,cup,white sugar,4.483870983
+1072,102,0.75,cup,dried cranberries,4.483870983
+1073,102,0.5,teaspoon,lemon juice,4.483870983
+1074,103,2,teaspoons,butter,4.645161152
+1075,103,1,tablespoon,white sugar,4.645161152
+1076,103,1,teaspoon,ground cinnamon,4.645161152
+1077,103,2,cups,all-purpose flour,4.645161152
+1078,103,1,tablespoon,baking powder,4.645161152
+1079,103,0.5,teaspoon,salt,4.645161152
+1080,103,1,teaspoon,ground cinnamon,4.645161152
+1081,103,0.5,teaspoon,ground nutmeg,4.645161152
+1082,103,0.5,cup,"butter, softened",4.645161152
+1083,103,1,cup,white sugar,4.645161152
+1084,103,2,0,eggs,4.645161152
+1085,103,1,cup,mashed ripe bananas,4.645161152
+1086,103,0.25,cup,milk,4.645161152
+1087,103,1,teaspoon,"white sugar, or as needed",4.645161152
+1088,104,0.75,cup,whole wheat flour,4.599999905
+1089,104,0.75,cup,all-purpose flour,4.599999905
+1090,104,1,teaspoon,baking soda,4.599999905
+1091,104,0.5,teaspoon,"kosher salt, or to taste",4.599999905
+1092,104,0.5,teaspoon,ground cinnamon,4.599999905
+1093,104,0.25,teaspoon,ground nutmeg,4.599999905
+1094,104,0.5,cup,"butter, softened",4.599999905
+1095,104,0.5,cup,white sugar,4.599999905
+1096,104,1,0,egg,4.599999905
+1097,104,1,teaspoon,vanilla extract,4.599999905
+1098,104,3,0,ripe bananas,4.599999905
+1099,104,0.25,cup,plain yogurt,4.599999905
+1100,105,0.25,cup,canned pumpkin,4.533333302
+1101,105,1,0,"very ripe banana, mashed",4.533333302
+1102,105,1,0,egg,4.533333302
+1103,105,2,0,egg whites,4.533333302
+1104,105,1,cup,maple syrup,4.533333302
+1105,105,0.333333333,cup,"raw sugar, such as turbinado or demerara",4.533333302
+1106,105,1,tablespoon,vanilla extract,4.533333302
+1107,105,2,cups,grated unpeeled zucchini,4.533333302
+1108,105,2,cups,whole wheat pastry flour,4.533333302
+1109,105,1,cup,unprocessed bran,4.533333302
+1110,105,1,teaspoon,salt,4.533333302
+1111,105,1,teaspoon,baking soda,4.533333302
+1112,105,0.25,teaspoon,baking powder,4.533333302
+1113,105,1,tablespoon,ground cinnamon,4.533333302
+1114,105,0.5,teaspoon,ground nutmeg,4.533333302
+1115,105,0.25,teaspoon,ground cloves,4.533333302
+1116,105,0.25,teaspoon,ground ginger,4.533333302
+1117,105,0.25,teaspoon,ground allspice,4.533333302
+1118,106,0.25,cup,yogurt,3.200000048
+1119,106,0.75,cup,chopped strawberries,3.200000048
+1120,106,0.25,cup,milk,3.200000048
+1121,106,1,cup,mashed banana,3.200000048
+1122,106,1,tablespoon,orange juice,3.200000048
+1123,106,1,cup,white sugar,3.200000048
+1124,106,0.5,teaspoon,vanilla extract,3.200000048
+1125,106,0.25,teaspoon,ground nutmeg,3.200000048
+1126,106,1.5,cups,all-purpose flour,3.200000048
+1127,106,0.5,teaspoon,baking powder,3.200000048
+1128,106,0.5,teaspoon,baking soda,3.200000048
+1129,107,1.75,cups,all-purpose flour,4.433333397
+1130,107,1,cup,white sugar,4.433333397
+1131,107,1,teaspoon,baking soda,4.433333397
+1132,107,3,0,"ripe bananas, mashed",4.433333397
+1133,107,2,0,eggs,4.433333397
+1134,107,0.5,cup,vegetable oil,4.433333397
+1135,107,5,tablespoons,buttermilk,4.433333397
+1136,107,1,teaspoon,vanilla extract,4.433333397
+1137,107,0.5,cup,chopped walnuts,4.433333397
+1138,108,3,cups,all-purpose flour,4.448276043
+1139,108,2,teaspoons,baking soda,4.448276043
+1140,108,0.5,teaspoon,salt,4.448276043
+1141,108,1,0,"1bananas, mashed",4.448276043
+1142,108,0.75,cup,"butter, softened",4.448276043
+1143,108,1,cup,brown sugar,4.448276043
+1144,108,3,0,"eggs, beaten",4.448276043
+1145,108,0.75,cup,walnut halves or pieces,4.448276043
+1146,108,0.25,cup,pecan halves or pieces,4.448276043
+1147,109,1.5,cups,all-purpose flour,4.724137783
+1148,109,1.25,teaspoons,baking soda,4.724137783
+1149,109,1,teaspoon,salt,4.724137783
+1150,109,1,teaspoon,ground cinnamon,4.724137783
+1151,109,0.5,teaspoon,ground nutmeg,4.724137783
+1152,109,1,tablespoon,"butter, softened",4.724137783
+1153,109,1,cup,packed brown sugar,4.724137783
+1154,109,1,cup,solid pack pumpkin puree,4.724137783
+1155,109,0.5,cup,whole cranberry sauce,4.724137783
+1156,109,1,0,egg,4.724137783
+1157,109,1,0,"banana, mashed",4.724137783
+1158,110,0.666666667,cup,raisins,4
+1159,110,0.333333333,cup,dark rum,4
+1160,110,3,0,"ripe bananas, mashed",4
+1161,110,0.75,cup,packed brown sugar,4
+1162,110,0.333333333,cup,canola oil,4
+1163,110,2,0,eggs,4
+1164,110,1,cup,all-purpose flour,4
+1165,110,0.75,cup,whole wheat flour,4
+1166,110,1,teaspoon,baking powder,4
+1167,110,1,teaspoon,baking soda,4
+1168,110,1,teaspoon,salt,4
+1169,110,1,teaspoon,ground cardamom,4
+1170,110,0.5,cup,"chopped walnuts, toasted",4
+1171,111,1,cup,"milk, room temperature",3.538461447
+1172,111,2,tablespoons,"butter, softened",3.538461447
+1173,111,2,0,ripe bananas,3.538461447
+1174,111,3.5,cups,all-purpose flour,3.538461447
+1175,111,2,tablespoons,white sugar,3.538461447
+1176,111,1,teaspoon,salt,3.538461447
+1177,111,1,teaspoon,ground cinnamon,3.538461447
+1178,111,2.5,teaspoons,active dry yeast or bread machine yeast,3.538461447
+1179,111,0.5,cup,raisins,3.538461447
+1180,111,0.5,cup,walnuts,3.538461447
+1181,112,0.75,cup,chopped pecans,4.800000191
+1182,112,1.5,cups,all-purpose flour,4.800000191
+1183,112,1,teaspoon,baking soda,4.800000191
+1184,112,1,teaspoon,baking powder,4.800000191
+1185,112,0.25,teaspoon,salt,4.800000191
+1186,112,1.5,cups,"very ripe, mashed bananas",4.800000191
+1187,112,1,cup,white sugar,4.800000191
+1188,112,2,0,large eggs,4.800000191
+1189,112,1.5,teaspoons,vanilla extract,4.800000191
+1190,112,0.5,teaspoon,coconut extract,4.800000191
+1191,112,2,tablespoons,lemon juice,4.800000191
+1192,112,0.5,cup,"light butter, at room temperature",4.800000191
+1193,113,NA,0,cooking spray,4.458333492
+1194,113,NA,0,Bread:,4.458333492
+1195,113,2,cups,all-purpose flour,4.458333492
+1196,113,1,tablespoon,baking powder,4.458333492
+1197,113,0.5,teaspoon,kosher salt,4.458333492
+1198,113,0.5,cup,"unsalted butter, softened",4.458333492
+1199,113,1,cup,packed light brown sugar,4.458333492
+1200,113,2,0,eggs,4.458333492
+1201,113,3,0,"ripe bananas, mashed",4.458333492
+1202,113,1,tablespoon,vanilla extract,4.458333492
+1203,113,NA,0,Glaze:,4.458333492
+1204,113,0.25,cup,packed light brown sugar,4.458333492
+1205,113,2,tablespoons,unsalted butter,4.458333492
+1206,113,2,tablespoons,heavy whipping cream,4.458333492
+1207,113,0.333333333,cup,confectioners' sugar,4.458333492
+1208,113,0.25,teaspoon,kosher salt,4.458333492
+1209,114,0.25,cup,"margarine, softened",4.666666508
+1210,114,1,cup,white sugar,4.666666508
+1211,114,1,0,egg,4.666666508
+1212,114,1.5,cups,mashed bananas,4.666666508
+1213,114,0.25,cup,sour milk,4.666666508
+1214,114,0.75,teaspoon,baking soda,4.666666508
+1215,114,1.5,cups,all-purpose flour,4.666666508
+1216,114,0.25,teaspoon,salt,4.666666508
+1217,115,0.75,cup,fat free sour cream,4.13043499
+1218,115,4,0,egg whites,4.13043499
+1219,115,0.25,cup,chopped walnuts,4.13043499
+1220,115,0.333333333,cup,raisins (optional),4.13043499
+1221,115,2,teaspoons,baking powder,4.13043499
+1222,115,2,teaspoons,baking soda,4.13043499
+1223,115,6,0,"very ripe bananas, mashed",4.13043499
+1224,115,2,tablespoons,reduced fat margarine,4.13043499
+1225,115,1,tablespoon,vanilla extract,4.13043499
+1226,115,1,teaspoon,salt,4.13043499
+1227,115,0.666666667,cup,packed light brown sugar,4.13043499
+1228,115,4,cups,unbleached all-purpose flour,4.13043499
+1229,116,3,0,ripe bananas,4.681818008
+1230,116,1,ounce,"(15 ounce) can chickpeas (garbanzo beans), drained and rinsed",4.681818008
+1231,116,0.5,cup,melted butter,4.681818008
+1232,116,0.5,cup,chopped pitted dates,4.681818008
+1233,116,0.5,cup,almond flour,4.681818008
+1234,116,0.25,cup,honey,4.681818008
+1235,116,4,0,eggs,4.681818008
+1236,116,1,teaspoon,baking soda,4.681818008
+1237,116,1,teaspoon,grated fresh ginger,4.681818008
+1238,116,1,teaspoon,ground cinnamon,4.681818008
+1239,116,1,teaspoon,vanilla extract,4.681818008
+1240,116,0.75,teaspoon,salt,4.681818008
+1241,117,0.75,cup,peanut butter,4.409090996
+1242,117,0.333333333,cup,shortening,4.409090996
+1243,117,0.666666667,cup,white sugar,4.409090996
+1244,117,1,cup,mashed very ripe banana,4.409090996
+1245,117,2,0,eggs,4.409090996
+1246,117,1.75,cups,all-purpose flour,4.409090996
+1247,117,2,teaspoons,baking powder,4.409090996
+1248,117,0.5,teaspoon,salt,4.409090996
+1249,117,0.25,teaspoon,baking soda,4.409090996
+1250,117,0.25,cup,buttermilk,4.409090996
+1251,118,0.25,cup,"cold butter, cut into small pieces",4.136363506
+1252,118,0.5,cup,all-purpose flour,4.136363506
+1253,118,0.25,cup,packed brown sugar,4.136363506
+1254,118,1,teaspoon,ground cinnamon,4.136363506
+1255,118,0.5,cup,quick cooking oats,4.136363506
+1256,118,1.25,cups,white sugar,4.136363506
+1257,118,0.5,cup,"butter, softened",4.136363506
+1258,118,2,0,eggs,4.136363506
+1259,118,3,0,"ripe bananas, mashed",4.136363506
+1260,118,0.5,cup,buttermilk,4.136363506
+1261,118,1,teaspoon,vanilla extract,4.136363506
+1262,118,2.5,cups,all-purpose flour,4.136363506
+1263,118,2,teaspoons,pumpkin pie spice,4.136363506
+1264,118,2,teaspoons,baking powder,4.136363506
+1265,118,0.5,teaspoon,ground cinnamon,4.136363506
+1266,118,1,cup,chopped nuts (optional),4.136363506
+1267,119,1.25,cups,all-purpose flour,4.136363506
+1268,119,0.5,cup,sugar,4.136363506
+1269,119,2,teaspoons,Argoå¨ Baking Powder,4.136363506
+1270,119,0.25,teaspoon,salt,4.136363506
+1271,119,1,0,egg,4.136363506
+1272,119,0.75,cup,mashed bananas,4.136363506
+1273,119,0.5,cup,Mazolaå¨ Corn Oil,4.136363506
+1274,119,0.5,teaspoon,Spice Islandså¨ Pure Vanilla Extract,4.136363506
+1275,119,0.5,cup,chopped walnuts,4.136363506
+1276,119,NA,0,As needed Mazolaå¨ Pure No-Stick Canola or Butter Flavored Cooking Spray (optional),4.136363506
+1277,120,1.5,cups,all-purpose flour,3.714285612
+1278,120,1,cup,white sugar,3.714285612
+1279,120,1.5,teaspoons,baking powder,3.714285612
+1280,120,0.5,cup,shortening,3.714285612
+1281,120,2,0,eggs,3.714285612
+1282,120,1,cup,milk,3.714285612
+1283,120,1,teaspoon,almond extract,3.714285612
+1284,120,1,teaspoon,ground cinnamon,3.714285612
+1285,120,1,0,"very ripe banana, mashed",3.714285612
+1286,120,0.75,cup,all-purpose flour,3.714285612
+1287,120,0.5,cup,"brown sugar, packed",3.714285612
+1288,120,1,cup,quick-cooking rolled oats,3.714285612
+1289,120,0.5,teaspoon,ground cinnamon,3.714285612
+1290,120,0.5,cup,cold butter,3.714285612
+1291,121,3,tablespoons,margarine,4.142857075
+1292,121,2,cups,white sugar,4.142857075
+1293,121,3,0,egg yolks,4.142857075
+1294,121,3,cups,all-purpose flour,4.142857075
+1295,121,1,tablespoon,baking powder,4.142857075
+1296,121,1,cup,milk,4.142857075
+1297,121,3,0,egg whites,4.142857075
+1298,121,6,0,bananas,4.142857075
+1299,121,2,tablespoons,white sugar,4.142857075
+1300,121,1,teaspoon,ground cinnamon,4.142857075
+1301,122,2,cups,all-purpose flour,4.736842155
+1302,122,1,teaspoon,baking soda,4.736842155
+1303,122,1,teaspoon,ground cinnamon,4.736842155
+1304,122,0.25,teaspoon,ground nutmeg,4.736842155
+1305,122,0.25,teaspoon,ground ginger,4.736842155
+1306,122,0.25,teaspoon,salt,4.736842155
+1307,122,0.5,cup,"butter, softened",4.736842155
+1308,122,0.5,cup,white sugar,4.736842155
+1309,122,0.5,cup,brown sugar,4.736842155
+1310,122,2.333333333,cups,mashed overripe bananas,4.736842155
+1311,122,2,0,"eggs, beaten",4.736842155
+1312,122,1,tablespoon,lemon juice,4.736842155
+1313,122,1,teaspoon,vanilla extract,4.736842155
+1314,123,0.666666667,cup,warm water (110 degrees F/45 degrees C),3.388888836
+1315,123,0.75,cup,mashed bananas,3.388888836
+1316,123,2,tablespoons,"margarine, softened",3.388888836
+1317,123,1,0,egg,3.388888836
+1318,123,3.25,cups,bread flour,3.388888836
+1319,123,3,tablespoons,white sugar,3.388888836
+1320,123,1.25,teaspoons,salt,3.388888836
+1321,123,2.75,teaspoons,active dry yeast,3.388888836
+1322,123,0.5,cup,chopped macadamia nuts,3.388888836
+1323,124,1,cup,semi-sweet chocolate chunks,4.444444656
+1324,124,1,tablespoon,unsalted butter,4.444444656
+1325,124,1,teaspoon,"coconut oil, or more as needed",4.444444656
+1326,124,2,tablespoons,ground cinnamon,4.444444656
+1327,124,1,cup,mashed ripe bananas,4.444444656
+1328,124,0.5,cup,coconut flour,4.444444656
+1329,124,1,teaspoon,baking soda,4.444444656
+1330,124,0.125,teaspoon,sea salt,4.444444656
+1331,124,0.5,cup,almond butter,4.444444656
+1332,124,4,0,eggs,4.444444656
+1333,124,1,teaspoon,coconut oil,4.444444656
+1334,125,1.333333333,cups,vegetable oil,4.222222328
+1335,125,2,cups,white sugar,4.222222328
+1336,125,4,0,"eggs, whisked",4.222222328
+1337,125,5,cups,mashed bananas,4.222222328
+1338,125,1,tablespoon,lemon juice,4.222222328
+1339,125,4,cups,all-purpose flour,4.222222328
+1340,125,2,tablespoons,baking powder,4.222222328
+1341,125,1,teaspoon,salt,4.222222328
+1342,125,2,cups,chopped walnuts,4.222222328
+1343,126,2,tablespoons,white sugar,4.5
+1344,126,1,teaspoon,ground cinnamon,4.5
+1345,126,0.5,cup,butter,4.5
+1346,126,1.5,cups,white sugar,4.5
+1347,126,3,0,eggs,4.5
+1348,126,6,0,"very ripe bananas, mashed",4.5
+1349,126,1,ounce,(16 ounce) container reduced fat sour cream,4.5
+1350,126,2,teaspoons,vanilla extract,4.5
+1351,126,2,teaspoons,ground cinnamon,4.5
+1352,126,0.5,teaspoon,salt,4.5
+1353,126,3,teaspoons,baking soda,4.5
+1354,126,2.5,cups,all-purpose flour,4.5
+1355,126,2,cups,white whole wheat flour,4.5
+1356,126,1,cup,chopped walnuts (optional),4.5
+1357,127,1.5,tablespoons,"butter, melted",3.470588207
+1358,127,0.333333333,cup,white sugar,3.470588207
+1359,127,0.333333333,cup,peanut butter,3.470588207
+1360,127,1,0,"egg, lightly beaten",3.470588207
+1361,127,1,0,"ripe banana, mashed",3.470588207
+1362,127,1.5,tablespoons,milk,3.470588207
+1363,127,1,cup,all-purpose flour,3.470588207
+1364,127,0.5,teaspoon,baking powder,3.470588207
+1365,127,0.25,teaspoon,baking soda,3.470588207
+1366,127,1,0,dash salt,3.470588207
+1367,127,0.5,cup,raisins,3.470588207
+1368,127,0.25,cup,chopped roasted peanuts,3.470588207
+1369,128,2,0,eggs,4.25
+1370,128,1,cup,soy milk,4.25
+1371,128,0.5,cup,firmly packed brown sugar,4.25
+1372,128,2,tablespoons,olive oil,4.25
+1373,128,1.333333333,cups,mashed ripe bananas,4.25
+1374,128,2.5,cups,whole wheat flour,4.25
+1375,128,1,tablespoon,baking powder,4.25
+1376,128,1,teaspoon,salt,4.25
+1377,128,1,teaspoon,cinnamon,4.25
+1378,128,1,cup,"dried figs, chopped",4.25
+1379,129,1.5,cups,fresh blueberries,4.5
+1380,129,2,tablespoons,cake flour,4.5
+1381,129,0.5,cup,steel-cut oats,4.5
+1382,129,0.5,cup,chopped pecans,4.5
+1383,129,1.5,cups,cake flour,4.5
+1384,129,3,tablespoons,cake flour,4.5
+1385,129,1,teaspoon,baking soda,4.5
+1386,129,0.25,teaspoon,salt,4.5
+1387,129,0.5,cup,white sugar,4.5
+1388,129,0.5,cup,brown sugar,4.5
+1389,129,0.25,cup,Greek yogurt,4.5
+1390,129,0.25,cup,applesauce,4.5
+1391,129,2,0,eggs,4.5
+1392,129,1,teaspoon,vanilla extract,4.5
+1393,129,1,cup,mashed banana,4.5
+1394,129,2,tablespoons,cold butter,4.5
+1395,129,0.25,cup,brown sugar,4.5
+1396,130,0.5,cup,Mott'så¨ Natural Applesauce,3.533333302
+1397,130,2.5,cups,all-purpose flour,3.533333302
+1398,130,2,teaspoons,baking powder,3.533333302
+1399,130,2,teaspoons,baking soda,3.533333302
+1400,130,0.5,teaspoon,ground allspice,3.533333302
+1401,130,4,0,"medium ripe bananas, mashed",3.533333302
+1402,130,1,cup,sugar,3.533333302
+1403,130,3,0,egg whites,3.533333302
+1404,130,2,tablespoons,vegetable oil,3.533333302
+1405,130,1,teaspoon,vanilla extract,3.533333302
+1406,131,0.5,cup,water,3.285714388
+1407,131,0.75,cup,mashed banana,3.285714388
+1408,131,2,tablespoons,vegetable oil,3.285714388
+1409,131,1,teaspoon,butter flavored extract,3.285714388
+1410,131,1,teaspoon,vanilla extract,3.285714388
+1411,131,0.5,teaspoon,orange extract,3.285714388
+1412,131,1,cup,rolled oats,3.285714388
+1413,131,1,teaspoon,salt,3.285714388
+1414,131,1,tablespoon,white sugar,3.285714388
+1415,131,1,teaspoon,grated orange zest,3.285714388
+1416,131,0.5,teaspoon,ground cinnamon,3.285714388
+1417,131,0.25,teaspoon,ground nutmeg,3.285714388
+1418,131,2,cups,bread flour,3.285714388
+1419,131,1.5,teaspoons,active dry yeast,3.285714388
+1420,132,0.5,cup,white sugar,4.076922894
+1421,132,0.5,cup,"margarine, softened",4.076922894
+1422,132,2,0,eggs,4.076922894
+1423,132,2.75,cups,all-purpose flour,4.076922894
+1424,132,1.5,teaspoons,baking powder,4.076922894
+1425,132,0.5,teaspoon,baking soda,4.076922894
+1426,132,1.5,cups,mashed ripe bananas,4.076922894
+1427,132,1,cup,"plums, pitted and chopped",4.076922894
+1428,133,3,cups,all-purpose flour,3.615384579
+1429,133,2,teaspoons,baking powder,3.615384579
+1430,133,1,teaspoon,baking soda,3.615384579
+1431,133,0.5,teaspoon,salt,3.615384579
+1432,133,1,cup,white sugar,3.615384579
+1433,133,0.5,cup,vegetable oil,3.615384579
+1434,133,2,0,eggs,3.615384579
+1435,133,1,cup,shredded apple,3.615384579
+1436,133,0.75,cup,chopped walnuts,3.615384579
+1437,133,0.5,teaspoon,vanilla extract,3.615384579
+1438,134,2,cups,raisin nut bran cereal,4.099999905
+1439,134,0.5,cup,milk,4.099999905
+1440,134,0.25,cup,vegetable oil,4.099999905
+1441,134,1,0,"egg, beaten",4.099999905
+1442,134,1.5,cups,all-purpose flour,4.099999905
+1443,134,0.5,cup,white sugar,4.099999905
+1444,134,0.25,cup,brown sugar,4.099999905
+1445,134,3.5,teaspoons,baking powder,4.099999905
+1446,134,1,teaspoon,baking soda,4.099999905
+1447,134,0.25,teaspoon,salt,4.099999905
+1448,134,1,cup,mashed banana,4.099999905
+1449,135,0.75,cup,white sugar,4.599999905
+1450,135,0.5,cup,"butter, softened",4.599999905
+1451,135,1,tablespoon,brown sugar,4.599999905
+1452,135,1,tablespoon,instant hot chocolate mix,4.599999905
+1453,135,3,0,"bananas, peeled",4.599999905
+1454,135,1,0,"large fresh peach - peeled, pitted, and diced",4.599999905
+1455,135,0.25,cup,milk,4.599999905
+1456,135,2,0,eggs,4.599999905
+1457,135,1,tablespoon,vanilla extract,4.599999905
+1458,135,2,cups,all-purpose flour,4.599999905
+1459,135,0.5,cup,chopped walnuts (optional),4.599999905
+1460,135,1,teaspoon,baking soda,4.599999905
+1461,135,1,teaspoon,salt,4.599999905
+1462,136,0.5,cup,"butter, softened",4.900000095
+1463,136,1,cup,white sugar,4.900000095
+1464,136,2,0,eggs,4.900000095
+1465,136,2,0,"very ripe bananas, mashed",4.900000095
+1466,136,1,cup,self-rising flour,4.900000095
+1467,136,0.25,cup,flax seed meal,4.900000095
+1468,136,0.5,cup,chopped walnuts (optional),4.900000095
+1469,137,2,cups,all-purpose flour,3.700000048
+1470,137,1,teaspoon,baking soda,3.700000048
+1471,137,0.5,teaspoon,baking powder,3.700000048
+1472,137,0.5,teaspoon,ground cinnamon,3.700000048
+1473,137,0.25,teaspoon,salt,3.700000048
+1474,137,1,cup,brown sugar,3.700000048
+1475,137,0.5,cup,"butter, softened",3.700000048
+1476,137,3,0,"bananas, mashed",3.700000048
+1477,137,1,cup,grated carrots,3.700000048
+1478,137,1,cup,walnuts,3.700000048
+1479,138,2,cups,flour,4.400000095
+1480,138,1,teaspoon,baking soda,4.400000095
+1481,138,0.5,teaspoon,ground cinnamon,4.400000095
+1482,138,1.25,cups,white sugar,4.400000095
+1483,138,0.5,cup,shortening,4.400000095
+1484,138,2,0,"egg, beaten",4.400000095
+1485,138,1,cup,mashed ripe banana,4.400000095
+1486,138,1,teaspoon,vanilla extract,4.400000095
+1487,138,0.5,cup,buttermilk,4.400000095
+1488,139,1.25,cups,walnuts,4.777777672
+1489,139,1.5,cups,whole wheat flour,4.777777672
+1490,139,0.5,cup,all-purpose flour,4.777777672
+1491,139,1,teaspoon,ground cinnamon,4.777777672
+1492,139,0.75,teaspoon,baking soda,4.777777672
+1493,139,0.5,teaspoon,salt,4.777777672
+1494,139,0.25,teaspoon,ground nutmeg,4.777777672
+1495,139,1.5,cups,"mashed overripe bananas, or more to taste",4.777777672
+1496,139,0.5,cup,raw honey,4.777777672
+1497,139,2,0,"eggs, lightly beaten",4.777777672
+1498,139,0.25,cup,plain yogurt,4.777777672
+1499,139,0.25,cup,"coconut oil, melted and cooled",4.777777672
+1500,139,2,tablespoons,"butter, melted and cooled",4.777777672
+1501,139,1,teaspoon,vanilla extract,4.777777672
+1502,140,1,tablespoon,cider vinegar,4.111111164
+1503,140,3,tablespoons,milk,4.111111164
+1504,140,0.5,cup,"butter, softened",4.111111164
+1505,140,1,cup,white sugar,4.111111164
+1506,140,3,0,"ripe bananas, sliced",4.111111164
+1507,140,2,cups,all-purpose flour,4.111111164
+1508,140,2,teaspoons,baking soda,4.111111164
+1509,140,1,cup,chopped walnuts,4.111111164
+1510,140,2,0,"eggs, beaten",4.111111164
+1511,141,1.5,cups,all-purpose flour,3.555555582
+1512,141,0.5,cup,rolled oats,3.555555582
+1513,141,1,teaspoon,baking soda,3.555555582
+1514,141,1,teaspoon,salt,3.555555582
+1515,141,1,teaspoon,"ground cinnamon, or to taste",3.555555582
+1516,141,0.5,cup,brown sugar,3.555555582
+1517,141,2,0,"eggs, beaten",3.555555582
+1518,141,1,cup,"bananas, sliced",3.555555582
+1519,141,1,teaspoon,vanilla extract,3.555555582
+1520,141,1,tablespoon,grated orange zest,3.555555582
+1521,141,0.5,cup,melted butter,3.555555582
+1522,141,0.25,cup,flaked coconut,3.555555582
+1523,141,0.25,cup,"sliced almonds, or as needed",3.555555582
+1524,142,1.25,cups,brown sugar,4.5
+1525,142,0.5,cup,"butter, softened",4.5
+1526,142,2,0,eggs,4.5
+1527,142,5,0,"very ripe bananas, mashed",4.5
+1528,142,2,teaspoons,lemon juice,4.5
+1529,142,0.5,cup,milk,4.5
+1530,142,2,teaspoons,vanilla extract,4.5
+1531,142,2.5,cups,all-purpose flour,4.5
+1532,142,1,teaspoon,baking soda,4.5
+1533,142,1,teaspoon,salt,4.5
+1534,142,1,teaspoon,ground cinnamon,4.5
+1535,142,0.5,cup,white sugar,4.5
+1536,142,0.333333333,cup,all-purpose flour,4.5
+1537,142,0.25,cup,"unsalted butter, cubed",4.5
+1538,142,1.5,teaspoons,ground cinnamon,4.5
+1539,143,1.5,cups,white sugar,4
+1540,143,0.5,cup,applesauce,4
+1541,143,3,0,"ripe bananas, pureed",4
+1542,143,0.5,cup,plain fat-free Greek yogurt,4
+1543,143,1,0,egg,4
+1544,143,1,teaspoon,vanilla extract,4
+1545,143,2,cups,gluten-free all-purpose baking flour (such as Bob's Red Millå¨),4
+1546,143,2,teaspoons,xanthan gum,4
+1547,143,1,teaspoon,baking powder,4
+1548,143,1,teaspoon,baking soda,4
+1549,143,0.5,cup,"miniature chocolate chips, or more to taste",4
+1550,143,1,cup,chopped walnuts (optional),4
+1551,144,2,cups,quartered strawberries,3.285714388
+1552,144,1,tablespoon,"white sugar, or to taste",3.285714388
+1553,144,1.333333333,cups,whole wheat flour,3.285714388
+1554,144,0.75,cup,all-purpose flour,3.285714388
+1555,144,0.5,cup,rolled oats,3.285714388
+1556,144,0.666666667,cup,white sugar,3.285714388
+1557,144,2,teaspoons,baking powder,3.285714388
+1558,144,1,teaspoon,ground cinnamon,3.285714388
+1559,144,2,0,"bananas, slightly mashed",3.285714388
+1560,144,4,0,eggs,3.285714388
+1561,144,3,tablespoons,olive oil,3.285714388
+1562,144,2,teaspoons,vanilla extract,3.285714388
+1563,145,0.333333333,cup,steel cut oats,2.714285612
+1564,145,0.333333333,cup,boiling water,2.714285612
+1565,145,0.25,cup,warm water (110 degrees F/45 degrees C),2.714285612
+1566,145,1,0,egg,2.714285612
+1567,145,2,tablespoons,vegetable oil,2.714285612
+1568,145,1,cup,mashed bananas,2.714285612
+1569,145,3,tablespoons,brown sugar,2.714285612
+1570,145,1.5,teaspoons,salt,2.714285612
+1571,145,0.25,cup,powdered buttermilk,2.714285612
+1572,145,1,cup,quick cooking oats,2.714285612
+1573,145,2.5,cups,all-purpose flour,2.714285612
+1574,145,2,teaspoons,active dry yeast,2.714285612
+1575,145,0.5,cup,chopped walnuts,2.714285612
+1576,146,1,cup,white sugar,4.166666508
+1577,146,0.5,cup,brown sugar,4.166666508
+1578,146,0.25,cup,"butter, softened",4.166666508
+1579,146,0.25,cup,applesauce,4.166666508
+1580,146,1,0,egg,4.166666508
+1581,146,2,0,egg whites,4.166666508
+1582,146,1,cup,mashed ripe bananas,4.166666508
+1583,146,1,teaspoon,vanilla extract,4.166666508
+1584,146,0.5,teaspoon,ground cinnamon,4.166666508
+1585,146,2,cups,self-rising flour,4.166666508
+1586,146,0.5,cup,buttermilk,4.166666508
+1587,146,1,ounce,"(8 ounce) can crushed pineapple, drained",4.166666508
+1588,146,0.5,cup,chopped maraschino cherries,4.166666508
+1589,147,2.25,cups,all-purpose flour,4.333333492
+1590,147,1.5,teaspoons,CALUMET Baking Powder,4.333333492
+1591,147,0.5,teaspoon,baking soda,4.333333492
+1592,147,1,ounce,"(8 ounce) package PHILADELPHIA Cream Cheese, softened",4.333333492
+1593,147,0.25,cup,"butter, softened",4.333333492
+1594,147,1,cup,sugar,4.333333492
+1595,147,1,cup,mashed fully ripe bananas,4.333333492
+1596,147,2,0,eggs,4.333333492
+1597,147,1,cup,chopped PLANTERS Walnuts,4.333333492
+1598,148,NA,0,butter-flavored cooking spray (such as Pamå¨),4.166666508
+1599,148,3,0,very ripe bananas,4.166666508
+1600,148,1,tablespoon,vanilla extract,4.166666508
+1601,148,1,tablespoon,banana extract,4.166666508
+1602,148,1.5,fluid,ounces whiskey and honey liqueur (such as Jack Daniel's Tennessee Honeyå¨),4.166666508
+1603,148,1,cup,butter,4.166666508
+1604,148,2,cups,white sugar,4.166666508
+1605,148,4,0,eggs,4.166666508
+1606,148,3,tablespoons,bacon drippings,4.166666508
+1607,148,5,0,slices cooked bacon,4.166666508
+1608,148,2.25,cups,all-purpose flour,4.166666508
+1609,148,1,teaspoon,baking soda,4.166666508
+1610,148,1,teaspoon,salt,4.166666508
+1611,148,0.5,teaspoon,baking powder,4.166666508
+1612,149,0.5,cup,canola oil,4
+1613,149,0.333333333,cup,cold water,4
+1614,149,3,0,eggs,4
+1615,149,1,0,egg white,4
+1616,149,2,0,"large bananas, mashed",4
+1617,149,1,cup,white sugar,4
+1618,149,2,cups,all-purpose flour,4
+1619,149,1.5,teaspoons,baking soda,4
+1620,149,1,teaspoon,salt,4
+1621,149,2,tablespoons,flax seeds,4
+1622,149,0.25,cup,chopped pecans,4
+1623,149,1,0,pint fresh blueberries,4
+1624,149,0.25,cup,white sugar,4
+1625,150,3,0,"ripe bananas, mashed",3
+1626,150,1,teaspoon,distilled white vinegar,3
+1627,150,1.5,cups,white sugar,3
+1628,150,0.5,cup,"butter, softened",3
+1629,150,2,0,"eggs, beaten",3
+1630,150,2.25,cups,all-purpose flour,3
+1631,150,0.75,teaspoon,baking soda,3
+1632,150,0.5,teaspoon,baking powder,3
+1633,150,0.5,teaspoon,salt,3
+1634,150,0.5,cup,chopped walnuts (optional),3
+1635,150,0.5,cup,chocolate chips (optional),3
+1636,151,2,cups,all-purpose flour,4.599999905
+1637,151,1.25,cups,white sugar,4.599999905
+1638,151,1,tablespoon,light brown sugar,4.599999905
+1639,151,0.75,teaspoon,baking soda,4.599999905
+1640,151,0.75,teaspoon,ground cinnamon,4.599999905
+1641,151,0.5,teaspoon,baking powder,4.599999905
+1642,151,0.5,teaspoon,salt,4.599999905
+1643,151,1.333333333,cups,mashed bananas,4.599999905
+1644,151,0.666666667,cup,canola oil,4.599999905
+1645,151,0.666666667,cup,"crushed pineapple, drained",4.599999905
+1646,151,0.666666667,cup,flaked coconut,4.599999905
+1647,151,0.25,cup,chopped walnuts,4.599999905
+1648,151,0.25,cup,chopped macadamia nuts,4.599999905
+1649,151,2,0,"eggs, well beaten",4.599999905
+1650,151,4,teaspoons,applesauce,4.599999905
+1651,151,1.5,teaspoons,vanilla extract,4.599999905
+1652,151,1,teaspoon,lemon extract,4.599999905
+1653,151,0.5,teaspoon,coconut extract,4.599999905
+1654,151,2,tablespoons,"butter, at room temperature",4.599999905
+1655,151,0.25,cup,white sugar,4.599999905
+1656,151,0.25,cup,chopped walnuts,4.599999905
+1657,151,0.25,cup,chopped macadamia nuts,4.599999905
+1658,151,1,teaspoon,milk,4.599999905
+1659,152,0.5,cup,coconut flour,4.199999809
+1660,152,1,teaspoon,baking soda,4.199999809
+1661,152,1,teaspoon,baking powder,4.199999809
+1662,152,1,teaspoon,"ground cinnamon, or more to taste",4.199999809
+1663,152,0.25,teaspoon,salt,4.199999809
+1664,152,3,0,ripe bananas,4.199999809
+1665,152,6,0,eggs,4.199999809
+1666,152,0.25,cup,"coconut sugar, and more for topping",4.199999809
+1667,152,1,teaspoon,alcohol-free vanilla extract,4.199999809
+1668,152,0.333333333,cup,sunflower seeds,4.199999809
+1669,153,2.5,cups,pecan halves,5
+1670,153,1.5,cups,rolled oats,5
+1671,153,6,0,"large over-ripe bananas, mashed",5
+1672,153,1,cup,cane sugar,5
+1673,153,1.75,cups,white whole wheat flour,5
+1674,153,1,tablespoon,baking powder,5
+1675,153,0.5,cup,"coconut oil, melted",5
+1676,153,1,teaspoon,sea salt,5
+1677,154,0.75,cup,unbleached all-purpose flour,4.25
+1678,154,0.75,cup,whole wheat flour,4.25
+1679,154,0.25,cup,milled flax seed,4.25
+1680,154,1,teaspoon,baking powder,4.25
+1681,154,1,teaspoon,baking soda,4.25
+1682,154,1,teaspoon,salt,4.25
+1683,154,1,teaspoon,ground cinnamon,4.25
+1684,154,0.5,teaspoon,ground cloves,4.25
+1685,154,0.25,teaspoon,ground nutmeg,4.25
+1686,154,0.5,cup,"butter, at room temperature",4.25
+1687,154,0.5,cup,brown sugar,4.25
+1688,154,0.5,cup,granular sucralose sweetener (such as Splendaå¨),4.25
+1689,154,2,0,eggs,4.25
+1690,154,1,teaspoon,vanilla extract,4.25
+1691,154,1,teaspoon,lemon juice,4.25
+1692,154,0.5,cup,nonfat plain yogurt,4.25
+1693,154,3,0,"medium bananas, mashed",4.25
+1694,154,0.5,cup,chopped walnuts,4.25
+1695,154,0.5,cup,miniature semisweet chocolate chips (optional),4.25
+1696,154,1,tablespoon,chopped walnuts,4.25
+1697,154,1,tablespoon,miniature semisweet chocolate chips,4.25
+1698,155,2,cups,mashed bananas,4.5
+1699,155,0.5,cup,honey,4.5
+1700,155,0.25,cup,vegetable oil,4.5
+1701,155,2,0,eggs,4.5
+1702,155,2,tablespoons,reduced-fat peanut butter,4.5
+1703,155,1,teaspoon,vanilla extract,4.5
+1704,155,1,cup,whole wheat pastry flour,4.5
+1705,155,1,cup,whole wheat bread flour,4.5
+1706,155,0.75,cup,wheat germ,4.5
+1707,155,1,teaspoon,salt,4.5
+1708,155,1,teaspoon,baking soda,4.5
+1709,156,1,cup,mashed banana,5
+1710,156,0.75,cup,white sugar,5
+1711,156,0.5,cup,"butter, softened",5
+1712,156,0.5,cup,vegetable shortening,5
+1713,156,2,0,large eggs,5
+1714,156,2,teaspoons,grated fresh orange zest,5
+1715,156,2,teaspoons,dried orange peel,5
+1716,156,1,teaspoon,grated nutmeg,5
+1717,156,1,teaspoon,vanilla extract,5
+1718,156,2,cups,all-purpose flour,5
+1719,156,1,tablespoon,baking powder,5
+1720,156,0.5,cup,chopped bitter chocolate,5
+1721,156,1,teaspoon,dried lavender flowers,5
+1722,156,1,tablespoon,coarse sugar for decorating (optional),5
+1723,157,1,tablespoon,white sugar (optional),4.666666508
+1724,157,2,teaspoons,ground cinnamon (optional),4.666666508
+1725,157,2,cups,whole wheat flour,4.666666508
+1726,157,1.5,cups,quick cooking oats,4.666666508
+1727,157,1,cup,all-purpose flour,4.666666508
+1728,157,1,tablespoon,baking soda,4.666666508
+1729,157,1.5,teaspoons,ground cinnamon,4.666666508
+1730,157,0.5,teaspoon,salt,4.666666508
+1731,157,2,cups,"dark brown sugar, packed",4.666666508
+1732,157,0.75,cup,butter,4.666666508
+1733,157,1,ounce,(16 ounce) container sour cream,4.666666508
+1734,157,6,0,"very ripe bananas, mashed",4.666666508
+1735,157,3,0,eggs,4.666666508
+1736,157,2.5,teaspoons,vanilla extract,4.666666508
+1737,157,2,cups,chopped dates,4.666666508
+1738,157,1,cup,chopped walnuts,4.666666508
+1739,157,0.5,cup,toasted flake coconut (optional),4.666666508
+1740,157,0.25,cup,"dark brown sugar, divided",4.666666508
+1741,157,2,tablespoons,"chopped dates, divided",4.666666508
+1742,157,2,tablespoons,"chopped walnuts, divided",4.666666508
+1743,157,2,tablespoons,"toasted flake coconut, divided (optional)",4.666666508
+1744,157,1,tablespoon,"butter, melted (optional)",4.666666508
+1745,158,1.333333333,cups,flour,3
+1746,158,0.5,teaspoon,salt,3
+1747,158,0.5,teaspoon,baking soda,3
+1748,158,0.25,teaspoon,baking powder,3
+1749,158,5.333333333,tablespoons,Meltå¨ Organic Buttery Spread,3
+1750,158,0.666666667,cup,sugar (slightly less--see directions),3
+1751,158,2,0,"large eggs, lightly beaten",3
+1752,158,1,cup,mashed ripe bananas,3
+1753,158,1,cup,milk chocolate or semi-sweet chocolate chips,3
+1754,159,0.5,ounce,(12 ounce) package silken tofu,3.333333254
+1755,159,2,0,ripe bananas,3.333333254
+1756,159,2,tablespoons,miniature chocolate chips,3.333333254
+1757,159,1,cup,pancake mix,3.333333254
+1758,160,1,teaspoon,"margarine, or as needed, softened",4.333333492
+1759,160,0.75,cup,almond milk,4.333333492
+1760,160,1,tablespoon,vinegar,4.333333492
+1761,160,1.25,cups,rice flour,4.333333492
+1762,160,0.5,cup,brown sugar,4.333333492
+1763,160,0.25,cup,amaranth flour,4.333333492
+1764,160,0.25,cup,soy flour,4.333333492
+1765,160,0.25,cup,flax seed meal,4.333333492
+1766,160,1,teaspoon,baking powder,4.333333492
+1767,160,1,teaspoon,baking soda,4.333333492
+1768,160,1,teaspoon,sea salt,4.333333492
+1769,160,2,0,"large bananas, mashed",4.333333492
+1770,160,1,0,"egg, beaten",4.333333492
+1771,160,1,tablespoon,"coconut oil, melted",4.333333492
+1772,161,NA,0,cooking spray,4
+1773,161,NA,0,Banana Bread:,4
+1774,161,0.5,cup,"unsalted butter, melted",4
+1775,161,0.5,cup,light brown sugar,4
+1776,161,1,0,egg,4
+1777,161,0.25,cup,sour cream,4
+1778,161,0.25,cup,white sugar,4
+1779,161,1,teaspoon,vanilla extract,4
+1780,161,2,0,ripe bananas,4
+1781,161,1,cup,all-purpose flour,4
+1782,161,0.5,teaspoon,baking soda,4
+1783,161,0.5,teaspoon,baking powder,4
+1784,161,0.5,teaspoon,salt,4
+1785,161,NA,0,Cream Cheese Filling:,4
+1786,161,1,ounce,"(4 ounce) package cream cheese, softened",4
+1787,161,1,0,egg,4
+1788,161,0.25,cup,white sugar,4
+1789,161,3,tablespoons,all-purpose flour,4
+1790,162,3,0,large ripe bananas,4
+1791,162,1,0,egg,4
+1792,162,1.333333333,cups,gluten-free all purpose baking flour,4
+1793,162,0.25,cup,honey,4
+1794,162,0.25,cup,vegetable oil,4
+1795,162,0.25,cup,flaxseed meal,4
+1796,162,1,tablespoon,bourbon vanilla extract,4
+1797,162,2.5,teaspoons,baking powder,4
+1798,162,1,teaspoon,baking soda,4
+1799,162,0.5,teaspoon,xanthan gum,4
+1800,162,0.5,teaspoon,ground nutmeg,4
+1801,162,1,0,dash salt,4
+1802,162,0.5,cup,chopped pecans,4
+1803,163,1.5,cups,all-purpose flour,5
+1804,163,1,teaspoon,baking soda,5
+1805,163,0.25,teaspoon,salt,5
+1806,163,5,tablespoons,hot water,5
+1807,163,0.25,cup,cocoa powder,5
+1808,163,2,0,"large overripe bananas, mashed",5
+1809,163,0.5,cup,Greek yogurt,5
+1810,163,0.5,cup,"butter, melted",5
+1811,163,0.5,cup,brown sugar,5
+1812,163,2,0,"eggs, beaten",5
+1813,163,1,tablespoon,vanilla extract,5
+1814,164,1.5,cups,whole wheat flour,3
+1815,164,0.666666667,cup,brown sugar,3
+1816,164,0.5,cup,flaxseed meal,3
+1817,164,0.333333333,cup,rolled oats,3
+1818,164,2,tablespoons,white sugar,3
+1819,164,0.5,teaspoon,baking powder,3
+1820,164,0.5,teaspoon,baking soda,3
+1821,164,0.125,teaspoon,salt,3
+1822,164,2,0,eggs,3
+1823,164,6,tablespoons,"butter, melted",3
+1824,164,0.333333333,cup,buttermilk,3
+1825,164,1,tablespoon,buttermilk,3
+1826,164,1,teaspoon,vanilla extract,3
+1827,164,3,0,"bananas, mashed",3
+1828,165,0.5,cup,lightly packed brown sugar,4
+1829,165,2,tablespoons,olive oil,4
+1830,165,3,0,eggs,4
+1831,165,0.333333333,cup,unsweetened applesauce,4
+1832,165,1,teaspoon,vanilla extract,4
+1833,165,1.75,cups,mashed bananas,4
+1834,165,1.75,cups,whole wheat flour,4
+1835,165,1,teaspoon,baking soda,4
+1836,165,0.5,cup,chopped walnuts,4
+1837,166,3,0,"over-ripe bananas, mashed",4.5
+1838,166,2,0,eggs,4.5
+1839,166,3,tablespoons,canola oil,4.5
+1840,166,1,teaspoon,ground cinnamon,4.5
+1841,166,2,cups,whole wheat pastry flour,4.5
+1842,166,1,cup,chopped walnuts,4.5
+1843,166,0.5,cup,dark chocolate chunks (optional),4.5
+1844,166,0.75,cup,white sugar,4.5
+1845,166,1,teaspoon,baking powder,4.5
+1846,166,0.5,teaspoon,baking soda,4.5
+1847,166,0.5,teaspoon,vanilla extract,4.5
+1848,167,1,cup,all-purpose flour,4.5
+1849,167,1,cup,rice flour,4.5
+1850,167,0.25,cup,"stevia powder, or to taste",4.5
+1851,167,1,tablespoon,baking powder,4.5
+1852,167,0.5,teaspoon,baking soda,4.5
+1853,167,1,0,pinch salt,4.5
+1854,167,3,0,"ripe bananas, mashed",4.5
+1855,167,0.75,cup,unsweetened almond milk,4.5
+1856,167,0.25,cup,vegetable oil,4.5
+1857,167,1,0,egg,4.5
+1858,167,0.75,cup,pine nuts (optional),4.5
+1859,167,0.25,cup,flax seeds (optional),4.5
+1860,168,NA,0,cooking spray,4
+1861,168,1,cup,white sugar,4
+1862,168,0.5,cup,"butter, softened",4
+1863,168,6,0,"ripe bananas, mashed",4
+1864,168,2,0,"eggs, beaten",4
+1865,168,1.5,cups,cake flour,4
+1866,168,3,tablespoons,cake flour,4
+1867,168,1,teaspoon,baking soda,4
+1868,168,0.5,teaspoon,salt,4
+1869,168,0.5,teaspoon,vanilla extract,4
+1870,168,0.5,cup,European cookie spread (such as Biscoffå¨),4
+1871,169,0.333333333,cup,"butter, at room temperature",5
+1872,169,0.333333333,cup,unpasteurized Manuka honey,5
+1873,169,1,cup,mashed bananas,5
+1874,169,1,teaspoon,vanilla extract,5
+1875,169,1.75,cups,whole wheat flour,5
+1876,169,1,teaspoon,baking soda,5
+1877,169,1,teaspoon,baking powder,5
+1878,169,0.5,teaspoon,fleur de sel (sea salt flakes),5
+1879,169,0.25,cup,hot water,5
+1880,169,0.25,cup,dark chocolate chunks,5
+1881,169,2,tablespoons,chopped walnuts,5
+1882,170,1,cup,butter,5
+1883,170,1,cup,white sugar,5
+1884,170,4,0,eggs,5
+1885,170,1,cup,mashed ripe bananas,5
+1886,170,1,cup,mashed ripe papaya,5
+1887,170,0.75,cup,raisins,5
+1888,170,0.5,cup,chopped walnuts,5
+1889,170,0.333333333,cup,diced crystallized ginger,5
+1890,170,3,cups,all-purpose flour,5
+1891,170,2,teaspoons,baking soda,5
+1892,170,1,teaspoon,salt,5
+1893,170,1,teaspoon,ground cinnamon,5
+1894,170,1,teaspoon,ground allspice,5
+1895,170,1,teaspoon,ground ginger,5
+1896,170,0.5,teaspoon,baking powder,5
+1897,171,0.75,cup,all-purpose flour,4
+1898,171,0.5,teaspoon,baking soda,4
+1899,171,0.5,teaspoon,baking powder,4
+1900,171,0.5,teaspoon,ground cinnamon (optional),4
+1901,171,0.25,teaspoon,ground nutmeg (optional),4
+1902,171,0.25,teaspoon,salt,4
+1903,171,1,0,"large banana, mashed",4
+1904,171,0.25,cup,white sugar,4
+1905,171,0.25,cup,packed brown sugar,4
+1906,171,1,0,egg white,4
+1907,171,2,tablespoons,milk,4
+1908,171,1,tablespoon,canola oil,4
+1909,171,0.5,teaspoon,vanilla extract,4
+1910,171,0.333333333,cup,black sesame seeds,4
+1911,171,0.333333333,cup,chopped walnuts,4
+1912,172,NA,0,cooking spray,0
+1913,172,1,cup,brown sugar,0
+1914,172,1,ounce,"(3.4 ounce) package instant white chocolate pudding mix, divided",0
+1915,172,2,tablespoons,ground cinnamon,0
+1916,172,0.5,cup,"butter, melted",0
+1917,172,1,ounce,"(16.3 ounce) package refrigerated buttermilk biscuit dough (such as Pillsbury Grands!å¨), each cut into 8 pieces",0
+1918,172,1,0,"ripe banana, mashed",0
+1919,172,0.5,cup,semisweet chocolate chips,0
+1920,172,NA,0,Icing:,0
+1921,172,1,cup,confectioners' sugar,0
+1922,172,2,tablespoons,"butter, melted",0
+1923,172,2,teaspoons,heavy whipping cream,0
+1924,173,NA,0,cooking spray,0
+1925,173,2,tablespoons,boiling water,0
+1926,173,1,tablespoon,flax seeds,0
+1927,173,1,cup,mashed ripe bananas,0
+1928,173,0.25,cup,unsweetened applesauce,0
+1929,173,2,teaspoons,vanilla extract,0
+1930,173,1,cup,chopped Medjool dates,0
+1931,173,1,cup,oat flour,0
+1932,173,0.5,cup,tapioca starch,0
+1933,173,4,teaspoons,baking powder,0
+1934,173,1,teaspoon,ground cinnamon,0
+1935,173,0.5,teaspoon,baking soda,0
+1936,173,0.5,cup,chopped walnuts,0
+1937,174,1,cup,white sugar,0
+1938,174,0.5,cup,"butter, softened",0
+1939,174,2,0,eggs,0
+1940,174,1,teaspoon,vanilla extract,0
+1941,174,1.5,cups,all-purpose flour,0
+1942,174,1.5,teaspoons,ground allspice,0
+1943,174,3,0,"overripe bananas, thinly sliced",0
+1944,174,0.5,cup,banana-flavored yogurt,0
+1945,174,3,tablespoons,white sugar,0
+1946,174,1,teaspoon,ground cloves,0
+1947,175,2.5,cups,mashed ripe bananas,0
+1948,175,4,0,eggs,0
+1949,175,0.5,cup,almond butter,0
+1950,175,0.25,cup,"butter, melted",0
+1951,175,0.5,cup,coconut flour,0
+1952,175,1,teaspoon,ground cinnamon,0
+1953,175,1,teaspoon,baking soda,0
+1954,175,1,teaspoon,baking powder,0
+1955,175,1,teaspoon,vanilla extract,0
+1956,175,1,0,pinch sea salt,0
+1957,175,0.5,cup,dark chocolate chips,0
+1958,176,2,cups,whole wheat flour,0
+1959,176,1,cup,flaxseed meal,0
+1960,176,0.25,cup,wheat germ,0
+1961,176,2,teaspoons,baking soda,0
+1962,176,1,teaspoon,ground cinnamon,0
+1963,176,0.333333333,teaspoon,sea salt,0
+1964,176,2,cups,chopped walnuts,0
+1965,176,4,0,eggs,0
+1966,176,2,cups,brown sugar,0
+1967,176,0.666666667,cup,sunflower seed oil,0
+1968,176,0.333333333,cup,roasted walnut oil,0
+1969,176,0.25,cup,plain yogurt,0
+1970,176,5,0,"large ripe bananas, coarsely mashed, or more to taste",0
+1971,176,2,teaspoons,vanilla extract,0
+1972,177,0.25,cup,sucralose sugar substitute (such as Splendaå¨ Granulated),0
+1973,177,1,teaspoon,ground cinnamon,0
+1974,177,0.75,cup,light margarine (such as Smart Balanceå¨ Light),0
+1975,177,1.5,cups,sugar and sucralose blend for baking (such as SPLENDAå¨ Sugar Blend),0
+1976,177,6,0,"very ripe bananas, mashed",0
+1977,177,0.75,cup,egg substitute,0
+1978,177,1,ounce,(16 ounce) container reduced-fat sour cream,0
+1979,177,2,teaspoons,vanilla extract,0
+1980,177,2,teaspoons,ground cinnamon,0
+1981,177,4.5,cups,white whole wheat flour (such as King Arthurå¨),0
+1982,177,1,0,scoop vanilla protein powder (optional),0
+1983,177,1,tablespoon,baking soda,0
+1984,177,0.5,teaspoon,salt substitute (such as Mortonå¨ Lite Salt‰ã¢ Mixture),0
+1985,177,1,cup,chopped walnuts (optional),0
+1986,178,NA,0,non-stick cooking spray,0
+1987,178,1,cup,white sugar,0
+1988,178,1,0,"banana, mashed",0
+1989,178,0.5,cup,fat-free plain yogurt,0
+1990,178,2,0,eggs,0
+1991,178,1,cup,all-purpose flour,0
+1992,178,0.666666667,cup,chickpea (garbanzo bean) flour,0
+1993,178,1,teaspoon,baking soda,0
+1994,178,0.5,teaspoon,ground cinnamon,0
+1995,178,0.25,teaspoon,salt,0
+1996,178,0.333333333,cup,water,0
+1997,178,1,cup,cooked and mashed sweet potatoes,0
+1998,178,0.5,cup,semisweet chocolate morsels (optional),0
+1999,178,0.25,cup,chia seeds (optional),0
