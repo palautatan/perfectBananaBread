@@ -98,3 +98,14 @@ length(converts[3])
 parsed_recipes = data.frame(all_ingr)
 write.csv(parsed_recipes ,file = "/Users/shermanpeng/Documents/R/banana_bread/parsed_ingredients.csv")
 head(parsed_recipes, 20)
+
+no_units_ingr = ingredients_all
+indicies = unlist(grep(".*ounce.*", no_units_ingr))
+
+for(i in 1:length(indicies))
+{
+  reg = ".*ounce(s)?\\W "
+  position =  grep(reg, no_units_ingr[[indicies[i]]])
+  no_units_ingr[[indicies[i]]][position] = gsub(reg, "", no_units_ingr[[indicies[i]]][position])
+}
+
